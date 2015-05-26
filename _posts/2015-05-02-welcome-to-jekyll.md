@@ -4,12 +4,77 @@ title:  First year review
 date:   2015-05-26 13:05:00
 ---
 
-Intro
+#Intro
 
-Knoydart
 
-Eigg
-Introduction
+#Knoydart
+In september 2014 University of Edinburgh in Collaboration with Knoydart Foundation, Community Energy Scotland and Local Energy Scotland, started a research project around Knoydart renewable energy and ways to expand and explore community needs and understanding of it.
+
+##Methodology:
+read about research through design
+
+##Abstract:
+
+First phase:
+
+Over the past couple of years Knoydart Foundation slowly developed and explored ways to use digital technologies in order to introduce and implement more advanced ways to monitor, sustain and improve their infrastructure and its relation to the community. One of the developments during this time, was adding a DT80LM3 data taker at the starting point of their electricity grid. The datataker currently stores rainfall and dam level, energy production and consumption. The initial phase of this project involved setting up the tracker and connecting it to the hydro system, and an initial data visualisation showing the recorded energy data.
+
+The challenge that Knoydart Foundation and the community were facing was very different from what people connected to national grid would experience. Knoydart produces one of the cleanest and renewable energy in the UK while facing various challenges such as cost of maintaining the infrastructure, daily maintenance routines, load balance and so on. Currently in ideal scenario because of their energy production limits, twice or three time during the year they will have power cuts due to sudden spikes in energy use, for instance during Christmas holiday. This is not including other uncontrollable incidents such as when there is a power cut due to weather conditions (For example: lightning). Rest of the time the community is producing more energy than they can consume and this bring a big area of potentials to develop new projects using cheap, clean and renewable energy. on the other hand there is no continuous flow of government fund or other forms of fund for sustaining and investing in Knoydart, so the dilemma here is how to encourage residents to use more electricity while developing general consensus within the community about brainstorming and thinking new ways of using the extra overhead.
+
+Design process:
+
+In order to develop a better understanding of different residents thoughts on their energy grid, its potentials and issues, we first had a few meeting with some members of the Knoydart and Forestry Foundations about their ideas and needs. The first of these meetings happened on the day we arrived in Knoydart and the discussion continued with to of the partners until later in the evening.
+After a brief introduction about different and similar aims of each of the 4 partners. For instance from Knoydart Foundation point of view while being at the heart of the community in Knoydart it is still important to not to let the worries and issues facing the energy infrastructure directly facing the community considering the size of the community and how it can easily damages the relationships between different parts. So results of our design needs to play a very careful role in terms of connecting energy use, potential futures and relationship with these organisations.
+Another important element to consider is the dangers of data surveillance and how it can produce blame based approaches and difficulties within the community.
+
+Sometime communicating with smaller communities like Knoydart seems like an ideal and easy way to do participative design, however in reality this relationship as well as any other community based work is very complicated and difficult to manage and sustain in a meaningful way.
+
+After our first meeting we decided to develop a series of prototypes to engage the community in thinking and designing with us, this was through improving the data connection, and developing 5 new visualisation based on our understanding of the current ideas and things the community were considering.
+
+The main areas of concern were:
+How to encourage residents to use more electricity
+What are the new ways that Knoydart can invests its energy overhead in new projects
+While encouraging residents to consume more and feel safe about their energy infrastructure how to develop a sense of responsibility and awareness about the fragility of the energy infrastructure.
+
+
+START FROM HERE:
+
+Our initial prototype involved 5 visualisations, converting digital data about energy use and consumption into potential projects for the future, for example figure 1 is showing how many new homes could be heated with the extra energy available in Knoydart grid and figure two is showing how many return boat journeys to Mallaig could be done with an electric boat being charged using Knoydart electricity grid energy overhead.
+While trying to introduce methods and design interruptions within Knoydart to encourage residents to consume more energy, electric devices has very different consumption behaviours, for instance kettles tend to use large amounts of electricity in a very short period of time, and on a grid with limited capacity, a big number of these kettles on top of the normal electricity load can lead into power cut, so it is also important to raise awareness on these issues as well.
+
+We tried to continue our conversation with Knoydart Foundation and other partners through these series of visualisations. None of them were planned ahead of our visit and we developed them during our visit.
+
+The development of this project was through 4 major cycles: Communication: Designing interventions and techniques to engage with the community, Observation: looking at how the interventions are untangling some aspects and element of community energy grid and their concerns, Exploration: developing new ways to look at the data working with the community to develop prototypes and new interventions and finally documentation: was about diverging all of our development and delivering the interventions to the community with some analytics and feedback methodologies so they can use them afterwards as a method of investigation and undestanding energy needs and potentials for future development. The thread that connected all these different phases was the digital data.
+
+Data:
+Knoydart Foundation uses DT80LM3 datataker to store rainfall, dam level, energy production and consumption of the community. This information helps the Foundation at first instance to predics some of the demand trends of the community so they can develop load balancing strategies while also provide ways for them to be able to predict the income and outgoing of the Foundation in order to sustain and improve their grid.
+In addition to this we store a copy of all the data in one of Edinburgh University servers in a relational database using MySQL. The data is being fetched every 10 seconds from the tracker and stored in the MySQL database using a python script. This data is then available through PhP API for other application and reporting purposes that we developed as part of this project.
+
+Communication and Realisation:
+During this time we developed our first visualisation of the community data, which was simply a Web 2.0 graph based visualisation. This webpage have been used and tested by a small number of the community and originated some feedback and conversations which helped us to develop the next series of explorations and interventions.
+
+
+
+Our first development as part of this project was a simple diagram of all the data using a simple Web 3.0 page, this visualisation have been used by the Knoydart foundation  for instance figure 3 is showing the power capacity of Knoydart in average kettle measures, all the data being retrieved from a mysql database at real time.
+our first week visit to Knoydart wrapped up with a focus group and feedback session around our design, which we also tried to use printed version of them to collect feedback about potential future projects.
+
+Implementation:
+As shown in figure 2
+
+For me:
+Talk about:
+changes in the design and introduction of data kettle after this focus group
+current evaluation
+Use of Anthropology and design to explore energy.
+
+##Findings:
+
+
+
+
+#Eigg
+
+##Introduction:
 In Summer 2014 Eco Travel Network (ETN) - a limited company based in Wales – started a 2 month trial of the Renault Twizy (Renault, 2014) on the Isle of Eigg as an alternative, low-carbon road transport option (Kidd & Williams, 2014).
 The vehicle has been equipped with a GPS device in order to record its movements and use on Eigg. In addition to this, ETN also used diary method to collect some qualitative feedback from each family using the car for a period of one week.
 

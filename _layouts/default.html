@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/PhD/css/main.css">
     <title>{{ site.title }}</title>
 </head>
 <body>
     <main>
         <header class="site-header">
-            <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+            <h1 class="site-title"><a href="{{ site.baseurl }}/PhD/">{{ site.title }}</a></h1>
             <nav class="site-nav">
-                <a href="{{ site.baseurl }}/proposal/" class="{% if page.url == '/proposal/' %}active{% endif %}">PhD Proposal</a>
-                <a href="{{ site.baseurl }}/about/" class="{% if page.url == '/about/' %}active{% endif %}">About</a>
+                <a href="{{ site.baseurl }}/PhD/proposal/" class="{% if page.url == '/PhD/proposal/' %}active{% endif %}">PhD Proposal</a>
+                <a href="{{ site.baseurl }}/PhD/about/" class="{% if page.url == '/PhD/about/' %}active{% endif %}">About</a>
             </nav>
         </header>
         {{ content }}

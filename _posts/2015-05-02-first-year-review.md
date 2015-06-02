@@ -6,9 +6,48 @@ date:   2015-05-26 13:05:00
 
 #Intro
 
+The original purpose of my PhD was to study the following:
+
+- How digital technologies are transforming community narratives into the digital sphere.
+- How these spaces are being used by the community?
+- How these approaches to heterogeneous and non-hegemonic modes of development, innovation and production could effect design?
+
+The study aimed to specifically look at "off grid" communities.
+
+My PhD is practice based and therefore to follow these questions, I did three pilot studies to gain better understanding of the "whats" first.
+
+For example:
+
+- What is grid?
+- What is off grid?
+- What is a community?
+- What does it mean to be responsible in the context of selected off grid communities?
+
+During the first year of my research I developed 4 interventions within different contexts each of them designed and developed with different aims to explore the main questions.
+
+#Research process:
+
+talk about practice based research and mixed methods
+
+
+
+I will first describe very briefly the concept and purpose of each work and then explain each work individually in their separate section. Each individual project also includes a brief literature review around its topic.
+
+
+
+
+The four interventions are the work that I have done on two "off grid" communities in the West Coast of Scotland. The thirst intervention was an art work called Zaytoun and finaly a person grid study.
+First I will provide a brief explanation of the concept of each work and then explain each individual work in more detail. The conclusion section will discuss how all these work is pieced together through my PhD and the planning section will provide the next steps of my PhD.
+
+
+
+
 
 #Knoydart
+Knoydart a peninsula located in west coast of Scotland. Knoydart is another off grid community based in the UK. Knoydart energy [Knoydart renewables] operated on a micro hydro-electric and is completely off national electricity grid.
+##Rationale
 In september 2014 University of Edinburgh in Collaboration with Knoydart Foundation, Community Energy Scotland and Local Energy Scotland, started a research project around Knoydart renewable energy and ways to expand and explore community needs and understanding of it.
+This opportunity provided a great
 
 ##Methodology:
 read about research through design
@@ -182,6 +221,6 @@ What do you imagine these alternative modes of transport might look like in the 
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[jekyll]:      http://jekyllrb.com
+[Knoydart renewables]:      http://www.knoydart-foundation.com/about/about-the-foundation/knoydart-renewables/
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help

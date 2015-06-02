@@ -4,6 +4,7 @@ layout: default
 <article class="post">
     <h2 class="post-header">{{ page.title }}</h2>
     <p class="post-meta">{{ page.date | date: site.date_format }}</p>
+
     {{ content }}
     {% if site.disqus_shortname %}
       <div id="disqus_thread"></div>
@@ -17,4 +18,5 @@ layout: default
         })();
       </script>
     {% endif %}
+    <p class="post-meta">Last modified: {{ page.last-modified }}</p>
 </article>

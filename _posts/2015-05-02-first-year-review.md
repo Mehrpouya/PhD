@@ -5,7 +5,12 @@ date:   2015-05-26 13:05:00
 last-modified: Tue, 02 Jun 2015
 ---
 
+[//]: # (<div id="wordcount" style="color:#2ecc40;"></div>)
+
+
 #Intro
+
+
 
 The original purpose of my [PhD][phd] was to study the following:
 
@@ -28,30 +33,295 @@ During the first year of my research I developed 4 interventions within differen
 
 The four interventions are as follows:
 
-- **Eigg mobility**: Literature review on mobility turn, ethnographic methods, auto ethnography, video ethnography, interview techniques.  
+- **Mobility on Isle of Eigg**: Literature review on mobility turn, ethnographic methods, auto ethnography, video ethnography, interview techniques.
 - **Power of Knoydart**: Research through design, Action Research
-- **Zaytoun**: digital data, data visualisation and issues of localisation and materialising information
+- **Zaytoun**: digital data, data visualisation and issues of localisation and materialisation of information
 - **Personal Grids**: quantified self, study of personal grids
 
-#Research process:
+##Rational of the pilot studies
+Practice based research as Wessling(2011) argues in her book "See it again, say it again. The Artist as Researcher" is a recently recognised mode of research. Over the last 3 decades the method gone through various changes and individual approaches.  There are not many unified views about practice led research and research through art as the practice.
+Sulivan (2011) categorised the changing contexts of framing (methodology) within research into three approaches as follows:
+>
+- research is a logical and linear process of intervention and inquiry that builds on what we know
+- research responds to issues and problems that need to be interpreted in real-life contexts.
+- artistic research can reveal new insights through creative and critical practice.
 
-talk about practice based research and mixed methods
+The result of the first and second approaches are methodologies such as empirical research and site-based research, however the third characterisation is more aligned to the recent practice led PhDs and researches.
+The challenge with the artistic research according to Sullivan (2011) from the point of view of knowledge creation are:
+>
+- How are theories constructed that interpret and explain who we are and what we do in visual arts and design?
+- How is new knowledge created and communicated?
+- What new research methods are needed for the complex visual and virtual worlds of today?
+
+The above questions and also the challenge of threading anthropology, design and informatics together for the practice based research was another central issue of the research...
+
+###References:
+- Wesseling, J. ed. (2011) See It Again, Say It Again: The Artist as Researcher. Amsterdam, Valiz/Antennae Series.
+- Sullivan, G. (2011) New Roles for New Realities. In: J. Wesseling ed. See It Again, Say It Again: The Artist as Researcher. Amsterdam, Valiz/Antennae Series, pp.77–84.
 
 
 
-I will first describe very briefly the concept and purpose of each work and then explain each work individually in their separate section. Each individual project also includes a brief literature review around its topic.
+##Brief summary of each pilot study:
+### Mobility on Isle of Eigg
+The aim of this work was to study transport on Isle of Eigg. The objective of the study was to develop better understanding of linking mobility and energy use.
+#### Method
+
+Triangulating data sources and methods for data collection started around 1959, a move initiated by Campell and Fisk in order to minimise the biases that each individual method generates. Originally this approach was more focused on convergence and around 1990 researchers started to mix their methods, in a way that one question or method leads to another instead of using them independently of one another. There are three main strategies for conducting research using mixed methods, Sequential, Concurrent and Transformative. The main difference between each of these methods is when and how they are mixing qualitative and quantitative data collection methods or strategies. In Sequential, the research starts with one method leading to another, for example starting research with a survey and a follow up interview with a smaller number of participants in order to be able to generalise the results of the survey more easily. The concurrent approach, as the name suggests, is when the researcher collects both qualitative and quantitative data at the same time in order to develop a well formed understanding of the problem or research question (Creswell, 2013).
+Mobility is a complex area of inquiry and as explained before it requires an advanced mix of methods and strategies in order to be able to project a better light on the concept. Mixed method will provide the ability to mix qualitative and quantitative methods, and this is not limited to the data collection methods, but it means both approaches are being used in tandem so the overall strength of the research will become greater than each individual method (Creswell, 2013).
+In this study our aim was to look at the history of mobility on Isle of Eigg and how it has been changed over the years. This research opportunity became available through the Off Grid project, with which I am involved as part of a collaboration between ETN and Isle of Eigg. We used a customised Twizy car, made by Renault as a probe to look at mobility on the island. This trial provided us with an opportunity to be able to speak with individuals on Eigg. The trial designed by ETN used both quantitative and qualitative data collection techniques and strategies. GPS tracker was in place to store the usage data of the car, in addition to a diary technique, so the participants can enter their experience with the car.
+Another reason for choosing mixed methods for this study is my personal position in this research. Crouch & Pearce (2012) discuss the importance of the investigators position within the context of the research. Having a background in computer science and being literate in programming languages, it will make it easier to use quantitative approaches to data collection and on the other hand working in the design school as a designer and artist is a factor that allows me to use qualitative methods. Considering these two factors and the nature of the research, mixed methods is the best fit for the purpose of this research.
+An further factor to consider is the audience, as mentioned before this research has been funded by ETN and Off Grid project from UoE. This collaboration brings specific data collection needs for each individual partner of the project. ETN is more interested in usage data, GPS data collection and diaries. Their audience are Psychology journals and also publicity for their company, however Off Grid project is based at School of Social Anthropology and therefore they are more keen on Qualitative approaches, such as interviews, image analysis, ethnography and field observations.
+
+###References:
+- Arksey, H. & Knight, P.T. (1999) Why interviews? In: Interviewing for social scientists: An introductory resource with examples. London, Sage, pp.32–42.
+- Bagnoli, A. (2009) Beyond the standard interview: the use of graphic elicitation and arts-based methods. Qualitative Research, 9 (5), pp.547–570.
+Banks, M. (2001) Visual methods in social research. Sage.
+- Becker, H.S. (1974) Photography and sociology. Studies in the anthropology of visual communication, 1 (1), pp.3–26.
+- Bryman, A. (2007) Barriers to integrating quantitative and qualitative research. Journal of mixed methods research, 1 (1), pp.8–22.
+- Bryman, A. (2008) Focus Groups. In: Social research methods. Oxford university press, pp.472–491.
+- Collier, J. (1986) Visual anthropology: Photography as a research method. UNM Press.
+- Creswell, J.W. (2013) Research design: Qualitative, quantitative, and mixed methods approaches. Sage.
+- Crouch, C. & Pearce, J. (Lecturer in education) (2012) Thinking about the research: Methodology. In: Doing research in design / Christopher Crouch and Jane Pearce. London : Berg, 2012.
+- Davies, K. (2011) Knocking on doors: recruitment and enrichment in a qualitative interview‐based study. International Journal of Social Research Methodology, 14 (4), pp.289–300.
+- Hunter, A. (2006) Foundations of multimethod research: Synthesizing styles. Sage.
+- Khan, M. & Manderson, L. (1992) Focus groups in tropical diseases research. Health policy and planning, 7 (1), pp.56–66.
+- Kidd, A. & Williams, P. (2014) Eco Travel Network starts trial on Isle of Eigg [Internet]. Available from: <http://www.ecotravelnetwork.co.uk/ETN-News/eco-travel-network-starts-trial-on-isle-of-eigg> [Accessed 20 October 2014].
+- Kitzinger, J. (1995) Qualitative research: introducing focus groups. Bmj, 311 (7000), pp.299–302.
+- Kitzinger, J. (1993) Understanding AIDS: Researching audience perceptions of acquired immune deficiency syndrome. Getting the message, pp.271–249.
+- Krathwohl, D.R. (1993) Methods of educational and social science research: An integrated approach. Longman/Addison Wesley Longman.
+- Laurier, E. & Philo, C. (2006) Natural problems of naturalistic video data. H. Knoblauch/B. Schnettler/J. Raab/H.-G. Soeffner: Video Analysis. Methodology and Methods. Qualitative Audiovisual Data Analysis in Sociology, Frankfurt am Main, Peter Lang.
+- Law, J. (2004) After method: Mess in social science research. Psychology Press.
+- Lederman, L.C. (1983) High communication apprehensives talk about communication apprehension and its effects on their behavior. Communication Quarterly, 31 (3), pp.233–237.
+- Martyn, D. & Denscombe, M. (2002) Objectivity. In: Ground rules for Good Research: a 10 point guide for social researchers. Open University Press, pp.157–173.
+- McDonald, A.M., Knight, R.C., Campbell, M.K., Entwistle, V.A., Grant, A.M., Cook, J.A., Elbourne, D.R., Francis, D., Garcia, J. & Roberts, I. (2006) What influences recruitment to randomised controlled trials? A review of trials funded by two UK funding agencies. Trials, 7 (1), p.9.
+Murray, S., Tapson, J., Turnbull, L., McCallum, J. & Little, A. (1994) Listening to local voices: adapting rapid appraisal to assess health and social needs in general practice. BMJ, 308 (6930), pp.698–700.
+- Newington, L. & Metcalfe, A. (2014) Factors influencing recruitment to research: qualitative study of the experiences and perceptions of research teams. BMC Medical Research Methodology, 14 (1), p.10.
+- Ortner, S.B. (2006) Resistance and the Problem of Ethnographic Refusal. In: Anthropology and social theory: Culture, power, and the acting subject. Duke University Press, pp.42–62.
+- Renault (2014) Twizy - Electric Vehicles - Renault Cars - Renault UK [Internet]. Available from: <http://www.renault.co.uk/cars/electric-vehicles/twizy/twizy> [Accessed 20 October 2014].
+- Rosenberg, M. (1986) Conceiving the self.
+- Rubin, H.J. & Rubin, I.S. (2005) Structuring the Interview. In: Qualitative interviewing: The art of hearing data. Sage Publications, pp.129–151.
+- Sarah, P. (2007) Visual Methods. In: Qualitative Research Practice. London, SAGE, pp.361–376.
+- Al-Yateem, N. (2012) The effect of interview recording on quality of data obtained: a methodological reflection. Nurse researcher, 19 (4), pp.31–35.
+- Zinkin, L. (2008) Your Self: did you find it or did you make it? Journal of Analytical Psychology, 53 (3), pp.389–406.
+
+##Power of Knoydart:
+#Phillips Light Bulb Diary:
+
+The Phillips Light Bulb project was recently featured in the [Herald Scotland][herald] and [Deadline News][deadlinenews], and as part of the development team behind the work, I thought it would be helpful to document how the project was developed and the code behind the project.
+
+## How it all came together:
+
+In August 2014 [Jamie Cross][Jamie], Co-Investigator of the [Off the Grid][offgrid] asked [myself][Hadi] and [Margus Lind][Margus] to join another project that he was leading in collaboration with [Knoydart Foundation][knoydartfoundation], [Local Energy Scotland][localenergyscot] and [Community Energy Scotland][communityenergy].
+
+The project was conceived following the development of a few data visualisations to try and find a way to translate the data from this tracker, and fragility of this micro-hydro into something more meaningful for the community without creating panic.
+
+![Tracker](/assets/Knoydart/tracker.jpg) ![Hydro](/assets/Knoydart/hydro.jpg)
+
+Sitting in the [Knoydart bunkhouse][bunkhouse], the three of us were joined by [Kyle Smith][Kyle] operations manager of [Knoydart Foundation][knoydartfoundation] and [Benny Talbot][Benny] from Community Energy Scotland. We were trying to find a way to engage with the community and tourists about how to have better awareness of energy consumption to avoid power cuts and develop ways to use the surplus energy.
+
+After a couple of hours of writing down ideas and sketches, [Kyle][Kyle] enquired as to whether we had seen the new [Phillips smart light bulbs][phillipshue]. None of us have heard about them before, however after a few more hours of research, the next day [Margus][Margus] developed the first hack of the light bulb. We managed on our last night in Knoydart to install it on one of the computers in the community library. The purpose was to change the color of the light bulb according to the community energy consumption.
+
+And this is what we left there for the following 3 months.
+
+![Phillips Hue in the library](/assets/Knoydart/philips-library.jpg)
+
+##First evaluation:
+
+We ran focus groups, interviewed people and made various versions of our visualisations. Finally the community were happy with three final designs.
+
+![focus group](/assets/Knoydart/first-focusgroup.jpg)
+
+
+1:Smart light bulb
+
+2:The new [Power of knoydart website][powerofknoydart]
+
+3:Data kettle (a widget for windows computers that shows the amount of energy consumption as a water level in a kettle).
+
+
+When we went back to Knoydart at the end of same year, we found out that not many people knew about our [Power of knoydart website][powerofknoydart]. Furthermore all of the lights in the library have been removed, and sadly not many people installed our kettle on their computers.
+
+Not knowing about our website or the kettle widget was because of reasons as simple as: some lost the link to the page, some didn't know about it, and some found it unreliable that the page was often down.
+
+The lights being moved from the library was again because our script lost communication with data server and the light bulb.
+
+##Iterations:
+
+To solve the advertising problem [Jamie][Jamie] printed out 300 water proof stickers that could be put in different locations as a point of reference. We've got one on our meeting room at Design informatics, here at University of Edinburgh!
+
+To solve the reliability problem, we asked [Chris Barker][chrisbarker] to join our team. The two of us developed a new and clean page for [Power of Knoydart][powerofknoydart], made it more resilient and made an easy installation for the [data kettle][datakettle] and we all advertised it on any medium that we could, for example Twitter, Facebook and other social networks.
+
+The last problem was to draw attention to the light bulb. We needed to bring it to somewhere more public and in the view of both tourists and the community.
+We made a new version of the code which is documented and accessible on here: [Power of Knoydart][githubknoydart]
+
+
+
+##Open source code and documentation:
+I will publish the Phillips Python code on the [Power of Knoydart website][githubknoydart] in the next couple of days.
+Here's how to do it yourself:
+
+##Here's how we hacked the Phillips light:
+Get yourself a:
+
+**Raspberry pie** (Instead of using a big computer, use one of these to save power and easy installation)
+
+**Phillips Hue**
+
+**Miniature wifi** (You need this to connect to the internet)
+
+
+First You need to install a couple of libraries on the Raspberry pie in order to talk to the Phillips Hue light bulb.
+
+Here's the list of libraries:
+
+**interp** (You need this to convert numerical ranges, for example in our case if we're using 10kwh of electricity convert it to a range of green and if it's more that 140 - 180 convert it to a range of red)
+
+
+**phue** (This is the important library that let's you speak with the smart bulb)
+
+That's it. Install these by [googling][google] or [ducking][duckduckgo] their name and python together.
+
+And here's the simple code:
+
+```python
+'''IP address of the Phillips Hue'''
+b = phue.Bridge(0.0.0.0)
+'''You can get it from their online console.'''
+b.connect()
+b.get_api()
+r=0
+sys.stdout.flush()
+
+```
+And then, changing light bulbs color according to your data, in my case it was a number between 0-180
+
+```python
+if num>150 and num<=180: #num has the number I mentioned, the data you want to visualise into light colors.
+    hue=int(interp(r,[150,180],[5000,1])) #interp will interpolate the values to the range I want here is red
+elif num>100 and num<=150:
+    hue=int(interp(r,[100,150],[15000,10000]))#here is yellow
+elif num>0 and num<=100:
+    hue=int(interp(r,[0,100],[30000,25000]))#green
+bri=255 #brightness of the light
+sat=254 #saturation of the light
+lights = b.lights #this will give me the list of light bulbs to iterate through
+command = {#preparing a command to send to the Phillips Hue controller
+        'transitiontime': 3,#how long to take to change to a new color.
+        'on': True,
+        'bri': 255,
+        'hue': hue,
+        'sat': 255
+    }
+for l in lights:#iterate through and change colors.
+    print(l.name)
+    b.set_light(l.name, command)
+time.sleep(10)
+```
+
+
+
+[Jamie]:http://www.sps.ed.ac.uk/staff/social_anthropology/cross_jamie
+[Hadi]:http://hadi.link
+[Margus]:https://github.com/modulo-
+[offgrid]:http://lifeoffthegrid.net
+[Kyle]:http://www.knoydart-foundation.com/about/about-the-foundation/knoydart-renewables/
+[knoydartfoundation]:http://www.knoydart-foundation.com
+[Benny]:http://www.communityenergyscotland.org.uk/our-team.asp?id=29
+[communityenergy]:http://www.communityenergyscotland.org.uk
+[powerofknoydart]:http://powerofknoydart.org/
+[trackercode]:https://github.com/Mehrpouya/PowerOfKnoydart/tree/master/TrackerCode
+[chrisbarker]:http://www.twitter.com/chris_barker
+[githubknoydart]:https://github.com/Mehrpouya/PowerOfKnoydart
+[duckduckgo]:http://duckduckgo.com
+[google]:http://google.com
+[localenergyscot]:http://www.localenergyscotland.org
+[phillipshue]:http://www2.meethue.com/en-gb/
+[bunkhouse]:http://www.knoydart-foundation.com/bunkhouse/about-the-bunkhouse/
+[datakettle]:http://www.powerofknoydart.org/downloads.html
+[herald]:http://www.heraldscotland.com/news/home-news/the-power-of-knoydart-lights-up-community.127060619
+[deadlinenews]: http://www.deadlinenews.co.uk/2015/05/26/lightbulb-warns-remote-community-of-power-blackout/
+
+
+#Litrature review:
+
+##Litrature review map:
+visualisation of Litrature review to come soon.
+
+##On Governmentality:
+Peter Miller and Nikolas Rose
+Callon
+##Frankfurt School:
+###Critical theory:
+- Theodor Adorno
+- Walter Benjamin
+- Max Horkheimer
+
+###Other
+- Marx
+- Hegel
+- Freud
+- Post Marxist
+
+##STS:
+- Anne Marie Moll
+- Latour
+- John Law
+
+##Business
+###Economy of Attention or attention economy
+
+####Keywords:
+
+** Poverty of attention, Consumption of information, Attention scarcity, Information overload, Attention transactions  **
+
+
+> Attention is focused mental engagement on a particular item of information. Items come into our awareness, we attend to a particular item, and then we decide whether to act. (Davenport & Beck, 2001)
+> Attention is a resource—a person has only so much of it (Mathiew Crawford)
+
+- Naom Chomsky
+
+- Mathiew Crawford
+- Davenport & Beck
+- Herbert A. Simon
+> "...in an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it" (Simon 1971)
+
+- Kevin Kelly
+
+
+
+##Other
+
+- Donna Haraway: [Cyborg Manifesto]
+- [Anne Galloway]
+- [sheep project]
+- http://abler.kinja.com/knitting-bones-with-fact-and-fiction-a-conversation-wi-1551078211?rev=1400196889
+- http://savageminds.org/2014/02/27/anthropology-design-anne-galloway/ (the rest - anthropology + design :  http://savageminds.org/2014/03/11/anthropology-design-kat-jungnickel/ kat spoke - http://ethnographymatters.net/blog/2013/09/17/towards-fantastic-ethnography-and-speculative-design/
+
+
+[Cyborg Manifesto] :http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf
+[Anne Galloway]: http://www.victoria.ac.nz/design/about/staff/anne-galloway  
+[sheep project]: http://countingsheep.info/
 
 ##Eigg mobility:
 
-Eigg mobility was a follow on project on Isle of eigg to look at behaviour change and community perception of mobility on the island, from pragmatists and historical point of views.
-
-In Summer 2014 [Eco Travel Network(ETN)][ETN] - a limited company based in Wales – founded by Alison Kidd and Peter Williams, started a [2 month trial][etn-trial] of the [Renault Twizy][Renault Twizy] on Isle of Eigg as an alternative low carbon road transport.
+In Summer 2014 [Eco Travel Network(ETN)][ETN] - a limited company based in Wales , started a [2 month trial][etn-trial] of the [Bruce][Renault Bruce] on Isle of Eigg as an alternative low carbon road transport.
 
 ![This is how Twizy looks like](/images/twizy.jpg)
 
+Eigg is one of the few places in the UK to produce their own electricity from renewable sources of energy (wind, solar and hydro). While
+
+
+A "mostly any cars we had were old"
+The practicalities of the life on Eigg, are very different to what people living in the cities are used to. Whilst the energy is very visible on the island through its sources that are loud and present in the landscape like the big wind turbines, or shiny solar panels, the practicality of living on the island creates so much need for use of carbon intensive, fossil fuels.
+
+One John and Mary farmers from Eigg mentioned:
+>We use about 20 tonnes of feed stuffs a year in bags. For the cows and sheep. We have to move it up to the farm first and then on a daily basis we will use about 10 bags…
+F:	In the winter.
+M:	…so that is 250kg and then we decide how we are going to move it. I might throw 6 bags in the Land Rover and Orla will take 4 on her bike to do the sheep or vice versa. Or if it's really, really bad we will put them in the trailer on the quad and go that way. We are constantly balancing the transport needs against what specific task we have.
+
 The vehicle has been equipped with a GPS device in order to record its movements and use on Eigg. In addition to this ETN also used diary research method to collect some qualitative measures from each family using the car for a period of one week.
 
-I made a rough visualisation of about one month of collected data using Cartodb platform. Thanks to [Off Grid project](http://lifeoffthegrid.net/) and in Particular [Alice Street](http://www.sps.ed.ac.uk/staff/social_anthropology/alice_street) and [Jamie Cross](http://www.sps.ed.ac.uk/staff/social_anthropology/cross_jamie) from Anthropology department, University of Edinburgh for the opportunity and providing me with access to their Cartodb subscription.
+As part of the residency, the following visualisation shows one month of collected data using Cartodb platform.
 
 <iframe width='100%' height='520' frameborder='0' src='http://edinb.cartodb.com/u/offthegrid/viz/21c8da76-4edb-11e4-93e4-0e4fddd5de28/embed_map' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -60,93 +330,10 @@ The primary aim of ETN in this trial is to find ways to make individuals linking
 
 ##Power of Knoydart:
 
-##Zaytoun:
-
 ##Personal grid:
 
 
 
-
-
-The four interventions are the work that I have done on two "off grid" communities in the West Coast of Scotland. The thirst intervention was an art work called Zaytoun and finaly a person grid study.
-First I will provide a brief explanation of the concept of each work and then explain each individual work in more detail. The conclusion section will discuss how all these work is pieced together through my PhD and the planning section will provide the next steps of my PhD.
-
-
-
-
-
-#Knoydart
-Knoydart a peninsula located in west coast of Scotland. Knoydart is another off grid community based in the UK. Knoydart energy [Knoydart renewables] operated on a micro hydro-electric and is completely off national electricity grid.
-##Rationale
-In september 2014 University of Edinburgh in Collaboration with Knoydart Foundation, Community Energy Scotland and Local Energy Scotland, started a research project around Knoydart renewable energy and ways to expand and explore community needs and understanding of it.
-This opportunity provided a great
-
-##Methodology:
-
-research through design
-
-##Abstract:
-
-First phase:
-
-Over the past couple of years Knoydart Foundation slowly developed and explored ways to use digital technologies in order to introduce and implement more advanced ways to monitor, sustain and improve their infrastructure and its relation to the community. One of the developments during this time, was adding a DT80LM3 data taker at the starting point of their electricity grid. The datataker currently stores rainfall and dam level, energy production and consumption. The initial phase of this project involved setting up the tracker and connecting it to the hydro system, and an initial data visualisation showing the recorded energy data.
-
-The challenge that Knoydart Foundation and the community were facing was very different from what people connected to national grid would experience. Knoydart produces one of the cleanest and renewable energy in the UK while facing various challenges such as cost of maintaining the infrastructure, daily maintenance routines, load balance and so on. Currently in ideal scenario because of their energy production limits, twice or three time during the year they will have power cuts due to sudden spikes in energy use, for instance during Christmas holiday. This is not including other uncontrollable incidents such as when there is a power cut due to weather conditions (For example: lightning). Rest of the time the community is producing more energy than they can consume and this bring a big area of potentials to develop new projects using cheap, clean and renewable energy. on the other hand there is no continuous flow of government fund or other forms of fund for sustaining and investing in Knoydart, so the dilemma here is how to encourage residents to use more electricity while developing general consensus within the community about brainstorming and thinking new ways of using the extra overhead.
-
-Design process:
-
-In order to develop a better understanding of different residents thoughts on their energy grid, its potentials and issues, we first had a few meeting with some members of the Knoydart and Forestry Foundations about their ideas and needs. The first of these meetings happened on the day we arrived in Knoydart and the discussion continued with to of the partners until later in the evening.
-After a brief introduction about different and similar aims of each of the 4 partners. For instance from Knoydart Foundation point of view while being at the heart of the community in Knoydart it is still important to not to let the worries and issues facing the energy infrastructure directly facing the community considering the size of the community and how it can easily damages the relationships between different parts. So results of our design needs to play a very careful role in terms of connecting energy use, potential futures and relationship with these organisations.
-Another important element to consider is the dangers of data surveillance and how it can produce blame based approaches and difficulties within the community.
-
-Sometime communicating with smaller communities like Knoydart seems like an ideal and easy way to do participative design, however in reality this relationship as well as any other community based work is very complicated and difficult to manage and sustain in a meaningful way.
-
-After our first meeting we decided to develop a series of prototypes to engage the community in thinking and designing with us, this was through improving the data connection, and developing 5 new visualisation based on our understanding of the current ideas and things the community were considering.
-
-The main areas of concern were:
-How to encourage residents to use more electricity
-What are the new ways that Knoydart can invests its energy overhead in new projects
-While encouraging residents to consume more and feel safe about their energy infrastructure how to develop a sense of responsibility and awareness about the fragility of the energy infrastructure.
-
-
-START FROM HERE:
-
-Our initial prototype involved 5 visualisations, converting digital data about energy use and consumption into potential projects for the future, for example figure 1 is showing how many new homes could be heated with the extra energy available in Knoydart grid and figure two is showing how many return boat journeys to Mallaig could be done with an electric boat being charged using Knoydart electricity grid energy overhead.
-While trying to introduce methods and design interruptions within Knoydart to encourage residents to consume more energy, electric devices has very different consumption behaviours, for instance kettles tend to use large amounts of electricity in a very short period of time, and on a grid with limited capacity, a big number of these kettles on top of the normal electricity load can lead into power cut, so it is also important to raise awareness on these issues as well.
-
-We tried to continue our conversation with Knoydart Foundation and other partners through these series of visualisations. None of them were planned ahead of our visit and we developed them during our visit.
-
-The development of this project was through 4 major cycles: Communication: Designing interventions and techniques to engage with the community, Observation: looking at how the interventions are untangling some aspects and element of community energy grid and their concerns, Exploration: developing new ways to look at the data working with the community to develop prototypes and new interventions and finally documentation: was about diverging all of our development and delivering the interventions to the community with some analytics and feedback methodologies so they can use them afterwards as a method of investigation and undestanding energy needs and potentials for future development. The thread that connected all these different phases was the digital data.
-
-Data:
-Knoydart Foundation uses DT80LM3 datataker to store rainfall, dam level, energy production and consumption of the community. This information helps the Foundation at first instance to predics some of the demand trends of the community so they can develop load balancing strategies while also provide ways for them to be able to predict the income and outgoing of the Foundation in order to sustain and improve their grid.
-In addition to this we store a copy of all the data in one of Edinburgh University servers in a relational database using MySQL. The data is being fetched every 10 seconds from the tracker and stored in the MySQL database using a python script. This data is then available through PhP API for other application and reporting purposes that we developed as part of this project.
-
-Communication and Realisation:
-During this time we developed our first visualisation of the community data, which was simply a Web 2.0 graph based visualisation. This webpage have been used and tested by a small number of the community and originated some feedback and conversations which helped us to develop the next series of explorations and interventions.
-
-
-
-Our first development as part of this project was a simple diagram of all the data using a simple Web 3.0 page, this visualisation have been used by the Knoydart foundation  for instance figure 3 is showing the power capacity of Knoydart in average kettle measures, all the data being retrieved from a mysql database at real time.
-our first week visit to Knoydart wrapped up with a focus group and feedback session around our design, which we also tried to use printed version of them to collect feedback about potential future projects.
-
-Implementation:
-As shown in figure 2
-
-For me:
-Talk about:
-changes in the design and introduction of data kettle after this focus group
-current evaluation
-Use of Anthropology and design to explore energy.
-
-##Findings:
-
-
-
-
-#Eigg
-
-##Introduction:
 
 
 -------------------
@@ -185,6 +372,25 @@ We also found that the majority of people who looked at piece did not touch the 
 #Conclusion and next steps:
 [Jamie Cross][Jamie Cross] well [said][lse-jamie]:
 >One lesson from the University of Edinburgh’s work with communities living off the grid is that making sense of data means thinking about how it can be materialised as well as visualised.
+
+One of the promises of data age is mobility both in temporal and spatial senses. In temporal through the manifestation of data bases and visualisation of events through the digital mediums (for examples see: [Guardian timeline visualisation of arab spring][arab spring], Recent approaches by anthropologists and ethnographers like the Vannini's work [life off the grid][phillip vannini])  t Over the next two years of this research 4 installations will be exhibited to study the role of time and space in how we associate ourselves with other communities.
+
+Next steps:
+Over the next two years of this project, 4 new interventions will be developed with empathy in the center of it from different geographical and temporal perspectives. each of these installations will show a different hidden layer of modern life.
+
+The first intervention of the four will be about South African mining exploitation as a geographically distanced disaster and looking at ways to develop a longitudinal relationship with the issue.
+
+The piece consists of a central tube which geometrically very similar to the mining silo
+![project Kniphophia](/PhD/images/silo.jpg)
+
+![project Kniphophia](/PhD/images/miners.jpg)
+
+![project Kniphophia](/PhD/images/africa.jpg)
+Mock up by [Anais Moisy][moisy]
+
+
+
+
 
 #Appendices:
 ##Appendix I
@@ -274,10 +480,13 @@ Participant’s signature		      _________________________________     Date:____
 [eigg-mobility]:http://cyberscot.co.uk/bruce
 [ETN]:http://www.ecotravelnetwork.co.uk
 [etn-trial]:http://www.ecotravelnetwork.co.uk/ETN-News/eco-travel-network-starts-trial-on-isle-of-eigg
-[Renault Twizy]:http://www.renault.co.uk/cars/electric-vehicles/twizy/twizy
+[Renault Bruce]:http://www.renault.co.uk/cars/electric-vehicles/twizy/twizy
 [phd]:http://hadi.link/PhD/proposal
 [knoydart-vis]:http://powerofknoydart.org
 [lse-jamie]:http://blogs.lse.ac.uk/impactofsocialsciences/2014/09/14/book-review-visual-insights-a-practical-guide-to-making-sense-of-data/
 [Jamie Cross]:http://www.sps.ed.ac.uk/staff/social_anthropology/cross_jamie
 [Craig Martin]:http://designgeographies.wordpress.com/
 [Chris Speed]:http://www.chrisspeed.net/
+[arab spring]: http://www.theguardian.com/world/interactive/2011/mar/22/middle-east-protest-interactive-timeline
+[phillip vannini]: http://lifeoffgrid.ca/
+[moisy]:http://anaismoisy.com/

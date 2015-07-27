@@ -1,0 +1,77 @@
+[
+	{
+		"id": 691,
+		"type": "article",
+		"title": "SociallyResponsibleInvestment.pdf",
+		"URL": "http://www.docs.sasg.ed.ac.uk/GaSP/Governance/SociallyResponsibleInvestment.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					4,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": 692,
+		"type": "article",
+		"title": "SociallyResponsibleInvestment.pdf.xoj"
+	},
+	{
+		"id": 694,
+		"type": "book",
+		"title": "Entangled: an archaeology of the relationships between humans and things",
+		"publisher": "Wiley-Blackwell",
+		"publisher-place": "Malden, MA",
+		"number-of-pages": "252",
+		"source": "Library of Congress ISBN",
+		"event-place": "Malden, MA",
+		"ISBN": "9780470672112 9780470672129",
+		"call-number": "GN406 .H63 2012",
+		"note": "00212",
+		"shortTitle": "Entangled",
+		"author": [
+			{
+				"family": "Hodder",
+				"given": "Ian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": 696,
+		"type": "book",
+		"title": "Reassembling the social: an introduction to actor-network-theory",
+		"collection-title": "Clarendon lectures in management studies",
+		"publisher": "Oxford University Press",
+		"publisher-place": "Oxford ; New York",
+		"number-of-pages": "301",
+		"source": "Library of Congress ISBN",
+		"event-place": "Oxford ; New York",
+		"ISBN": "0199256047",
+		"call-number": "HM585 .L38 2005",
+		"note": "09265",
+		"shortTitle": "Reassembling the social",
+		"author": [
+			{
+				"family": "Latour",
+				"given": "Bruno"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	}
+]

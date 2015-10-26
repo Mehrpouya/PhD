@@ -386,3 +386,15 @@ green     #859900  operators, other keywords
     color: #268bd2; }
   .highlight .il {
     color: #2aa198; }
+
+.pCentered {
+  text-align: center; }
+
+.pBig {
+  font-size: 2em; }
+
+h2 {
+  font-size: 3em; }
+
+.h1Big {
+  font-size: 4em; }

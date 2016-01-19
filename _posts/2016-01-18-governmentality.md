@@ -47,7 +47,9 @@ Further Rose suggests based on Ian Hacking's argument(1981)
 4. Techniques of inscription and accumulation of facts about "the population", the "national economy", "poverty". This renders a visible domain with a certain internal homogeneity and external boundaries.
 >The collections and aggregation of numbers participates in the fabruication of "clearing" within which thought and action can occur. Numbers here delineate "fictive spaces" for the operation of government, and establish a "plane of reality", marked out by a grid of norms, on which government can operate. (Miller & O'Leary, 1987, Rose, 1988, Miller & Rose, 1990).
 
-Word censor comes from Romans and it meant the person who censed they were in charge of counting people who are good at taxation, military and so on.
+**Censor** comes from Romans and it meant the person who censed they were in charge of counting people who are good at taxation, military and so on.
+
+**Statistics** comes from 17th century German notion of a science of states.
 
 
 ##To follow:

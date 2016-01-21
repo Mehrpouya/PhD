@@ -51,6 +51,16 @@ Further Rose suggests based on Ian Hacking's argument(1981)
 
 **Statistics** comes from 17th century German notion of a science of states.
 
+Porter 1986, discussed the relationship between statistics and standardisation
+Anthony Hopwood
+>numbers, and the specialist knowledges and professional techniques associated with them "can become implicated in the creation of a domain where technical expertise can come to dominate political debate"
+
+Following from Hopwood argument then Rose goes on to look at the analysis of the numericization, Cline Cohen implies that numericization happens because of the "ordering capacity" of the numbers through
+1. "Bond of uniformity"
+2. unlike orders to come together, like weather of London and New York.
+3. Numbers can be stabalising, for example velocity can be decomposed to time and distance, population growth to fertility and mortality.
+4. Numbers can be used for developing probability and measuring risks.
+
 
 ##To follow:
 - **Cline Cohen, Calculating People, book**
@@ -58,6 +68,51 @@ Further Rose suggests based on Ian Hacking's argument(1981)
 - Ian Hacking, Printed numbers
 - Theodor Porter, Quantification as a social technology
 - The powers of association, Latour
+- [Kula,1986 - measures and men](https://muse.jhu.edu/books/9781400857739)
 
 
 #Questions:
+
+----------------------------
+----------------------------
+
+#Rose, N., O’Malley, P. & Valverde, M. (2006) Governmentality. Annual review of law and social science, 2, pp.83–104.
+Foucault, defined government in his lectures (Foucault, 2009) as "an activity that undertakes to conduct individuals throughout their lives by placing them under the authority of a guide responsible for what they do and for what happens to them."
+And as Rose's stated, Foucault in his lecture "On the government of the Living" defined Governmentality as "understood i the broad sense of techniques and procedures for directing human behavior."
+In "Discipline and punish" Foucault brought the idea of reason of state which replaces the older notion of government or art of governing based on traditional virtues such as "wisdom, justice, liberality, respect for divine laws of human customs" or common abilities "prudence, thoughtful decisions, taking care to surround oneself with the best advisor".
+Rose et.al suggest then that in the new art of governing, "populations had to be understood by means of specific knowledges and to be governed through techniques that are attuned to these emergent understandings"
+
+**Liberalism**
+>"Political rationality, a way of doing things that was oriented to specific objectives and that reflected on itself in characteristic ways." from Rose's article on Governmetality
+
+Rose's suggests from Foucault's Discipline and Punish that liberalisms is a technology of government in response to the critique of governing regimes being excessive. p3
+
+Very important questions that Rose identified as ways to think and analyse power and governing regimes is to think about these(Think about Foucault's suggesiton about how he analysed formation of liberalism and read this questions):
+
+- Identify styles of thought
+- Their conditions of formation
+- The principles and knowledges that they borrow from and generate
+- The practices that they consist of
+- How they are carried out- Their contestations and alliances with other arts of governing.
+
+Now I should think about banks here and their programs, for example About their styles of thought, the idea of credit as liberalism, the knowledge they borrow and produce, Their conditions of formation (Economy and market...)
+
+Rose's suggests the following set of questions:
+> - Who or what is to be governed?
+- To what ends should they be governed?  
+Governmetality doesn't suggest that there is one body of government out there applying these rules or condition rather many of them working in conjuction for their own objectives and this will result in the following quesitons
+- Who governs what?
+- According to what logics?
+- Wit what techniques?
+- Toward what ends?
+
+
+
+
+
+##Thoughts
+
+
+
+
+Foucault, M., Senellart, M., Burchell, G., Ewald, F. & Fontana, A. (2009) Security, Territory, Population: Lectures at the Collège de France 1977–1978. Macmillan.

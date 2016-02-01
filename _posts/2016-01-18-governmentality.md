@@ -113,6 +113,56 @@ Governmetality doesn't suggest that there is one body of government out there ap
 ##Thoughts
 
 
+----------------------------
+
+----------------------------
+
+#Michel, F. (1977) Discipline and Punish: the Birth of the Prison. Trans. Sheridan A. Penguin Books. London.
+Discipline and Punish consists of four major parts:
+- torture: analysis the role of body and the form of the torture itself, or the body and scaffold
+- punishment
+- discipline
+- prison
+
+In this work, Foucault attempts to change and criticises many existing practices of studying and analysing power. This is through looking at power as a network of nodes each exercising power with their own objectives and techniques. This is one of his first works where he introduced the term "Governmentality". The focus of this book as the name suggests is primary on the practice of power through discipline and punishment as techniques of governementality. He then in his late 70s lectures, changes parts of his arguments in terms of governmentality and practices of power and orgues that in "advanced democratic regimes" the power is practiced through other strategies such as liberalism (see Rose et al, 2006).
+
+
+
+##Torture
+Discipline and punish studies the role of body and soul as the locus for the practice of power, the move from traditional forms of torture to newer forms.
+These are four general rules that Foucault stated as his guidlines for this study:
+
+> - Do not concentrate the study of the punitive mechanisms on their "repressive" effects alone, on their "punishment" aspects alone, but situate them in a whole series of their possible positive effects, even if these seem marginal at freest sight. as a consequence, regard punishment as a complex social function.
+- Analyse punitive methods not simple as consequences of legislation or as indicators of social structures, but as techniques possessing their own specificity in the more general field of other ways of exercising power. Regard punishment as a political tactic.
+- Instead of treating the history of penal law and the history of the human sciences as two separate series whose overlapping appears to have had on one or the other, or perhaps on both, a disturbing or useful effect, according o one's point of view, see whether there is not some common martix or whether they do not both derive from a single process of "epistemologico-juridical" formationl; in short, make the technology of power the very principle both of the humanization of the penal system and of the knowledge of man.
+- In short, try to study the metamorphosis of punitive methods on the basis of a political technology of the body in which might be read a common history of power relations and object relations. (p.23-24)
+
+He emphasis on the importance of keeping a critical eye on the fact that any exercise of power in this case punitive measures are not just negative and for reasons such as control and repress but also think about their useful effects and what they are trying to support.
+
+He connects the political investment of the body with its economical use through complex reciprocal relations. so from one hand governmentality is a technique to control and dominate the body and subjectification is the strategy to constitude labour.
+
+> The body becomes a useful force only if it is both a productive body and a subjected body.
+
+According to Foucault there may be a form of knowledge called political **"technology of the body"** which is not just a knowledge about its functions or forces but rather it is about ways to conquer it.
+>"... It cannot be localized in a particular type of institution or state apparatus. (p.26)
+
+
+
+>Now the study of this micro-physaics presupposes that the power exercised on the body is conceived not as a property, but as a strategy, that its effect of domination are attributed not to "appropriation", but to dispositions, maneuvers, tactics, techniques, functionings; that one should decipher in it a **network of relations**, constantly in tention, in activity, rather than a privilege that one might possess. In short this power is exercised rather than possessed.
+
+The power does not belong to a class or a specific group, but it gets transmitted in the society by its members through their use of it and their struggles. This form of power also is no univocal, it has many locuses of confrontation and instability with its own risks and conflicts.
+
+So in a way Faoucault is suggesting that there is marxian mediation relation between power and knowledge, like  essence and appearance (For more on the concept of essense see Gunn, 1987).
+
+
+
+
+
+##
+
+
 
 
 Foucault, M., Senellart, M., Burchell, G., Ewald, F. & Fontana, A. (2009) Security, Territory, Population: Lectures at the Collège de France 1977–1978. Macmillan.
+
+Gunn, R. (1987) Marxism and mediation. In: Common Sense. pp.57–66. Available from: <http://richard-gunn.com/pdf/5_marxism_mediation.pdf> [Accessed 1 February 2016].

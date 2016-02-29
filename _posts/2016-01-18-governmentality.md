@@ -161,7 +161,8 @@ So in a way Faoucault is suggesting that there is marxian mediation relation bet
 ##
 
 
-
+----------------------------
+----------------------------
 
 Foucault, M., Senellart, M., Burchell, G., Ewald, F. & Fontana, A. (2009) Security, Territory, Population: Lectures at the Collège de France 1977–1978. Macmillan.
 

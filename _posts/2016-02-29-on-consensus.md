@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Debt, the first 5000 years by Graeber
+title:  Deliberation, Consensus, representative democracy and critical democracy
 date:   2016-01-18 15:20:00
-last-modified: Mon, 1 Feb 2016 -- Mon, 01 Feb 2016
+last-modified: Mon, 29th Feb 2016 -- Mon, 29 Feb 2016
 categories: reading
-tags: finance
+tags: Politics
 ---
 
 Deliberation as the solution that leads to consensus and the

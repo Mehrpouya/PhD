@@ -1,74 +1,90 @@
 ---
 layout: post
-title:  Chapter II - History of the present; Political analysis of Knowledge  &#x1F534;
-date:   2018-07-07 07:33:00
-last-modified: Thur, 12 Jul 2018
+
+title: Chapter III Anthropological study of gossip - 15000 words
+
+date: 2018-07-06 07:31:00
+
+last-modified: Thur, 13 Jul 2018
+
 categories: chapters
+
 ---
 
-[//]: # (<div id="wordcount" style="color:#2ecc40;"></div>)
+Towards a universal instrument of coordination
 
+*"The Author of Nature writes down the equations, then fixes the fundamental constants, and finally chooses a series of boundary conditions."* (Hacking, 1990, p.56)
 
 Table of Contents
-=================
+-----------------
 
-[Table of Contents 1]
+[Towards a universal instrument of coordination 1]
 
-[Table of Figures 2]
+[Table of Contents 2]
 
-[Chapter one : History of the present or a political analysis of Knowledge 3]
+[Table of Figures 3]
 
-[Introduction 3]
+[Abstract 4]
 
-[Abstract 6]
+[Introduction 4]
 
-[1. Enumeration, simplification and universalism 7]
+[I. A brief history of the present 4]
 
-[1.1 Enumeration - The Man Whose Essence was Plotted by a Thousand Numbers 7]
+[II. Enumeration, simplification and universalism 9]
 
-[1.2 The Science of Muddling Through: Or from Locals to Universals 8]
+[II.I The Science of Muddling Through: Or from Locals to Universals 10]
 
-[1.3. What do we loose through enumeration and economical development 9]
+[II.II. What do we loose through enumeration and economical development 11]
 
-[2. Governmentality or science of objectification 10]
+[III. Governmentality or science of objectification 12]
 
-[3. Discussion on Knowledge and information 12]
+[IV. Overview on Knowledge and information 14]
 
-[Conclusion 13]
+[V. OpenBubble 15]
+
+[Conclusion 19]
+
+[References 21]
 
  {#section .ListParagraph}
 
 Table of Figures
-================
+----------------
 
 [Figure 1 Analysis of technological determinism (Misa, 1988) 4]
 
-[]{#_Toc518863951 .anchor}History of the present:
+Abstract
+--------
 
-Political analysis of Knowledge
-
-Alternative title: Towards a universal instrument of coordination
-
-*"The Author of Nature writes down the equations, then fixes the fundamental constants, and finally chooses a series of boundary conditions."* (Hacking, 1990, p.56)
+This chapter looks at the last 400 years of enumeration, high modernism and financialisation to provide a map of inter-related actors that created the world the way it is today. This will be through three lenses, from the perspective of knowledge production (Epistemology), Relationship between knowledge forms, corporations and legislation (technology) and finally last few decades of finantialisation. This chapter aims to thread through an amalgamation of philosophies, legislations, social movements and scientific breakthroughs which started during 16^th^ century and continued to this moment. These changes and approaches to individuals, society and community have changed our relationships not just with one another, but with the world to an extensive level. The purpose for the next two chapters are to identify some concerns and challenges caused by science and technology?
 
 Introduction
-============
+------------
 
-Technology is entwined in every aspect of our lives. "*Technologies feed, clothe, and provide shelter for us; they transport, entertain, and heal us; they provide the bases of wealth and of leisure; they also pollute and kill.*" (MacKenzie and Wajcman, 1999, p. 1). Whilst science and technology are being examined from variety of perspectives, In many of these argumentations there is a trace of technological determinism and using "*power language*"(Langdon Winner, 1980, p. 121) is common amongst both critiques and appraisers of technology. From a political viewpoint, it is crucial to objectify the technological determinism as it produces a passive attitude and discourages creative engagement with technology. From an intellectual standpoint technological determinism whilst producing knowledge and develops some aspects of our understanding of technology, it also reduces the relationship between society and things into a mere cause and effect relationship. Therefor it is vital to a) develop a historical and political interdisciplinary understanding of lines of enquiries about technological determinism? what technology is? specifically within the field of science and technology studies b) develop a creative approach for crafting new technologies that can deal with fast pace of change and the new and old needs of our societies and communities. A framework that fosters and engages not only in crafting and making new technologies but rather it is involved in shaping it and influencing it towards improvement of our beings, communities and environments.
+This chapter is developed in five sections. The aim of the first three sections is to offer an insight into some of the theoretical foundations and debates relating to technology. I will bring together references from fields of Philosophy, Science and Technology Studies (STS), Epistemology (study of knowledge) and Software engineering. My aim here is to first develop a clear line of inquiry and representation of a specific problem that arises from the way we relate and use technology as well as how we shape and make it. Philosophical enquiries will offer an insight into our understanding of technology and the hows: How to live with technology? ; How to communicate with/through it? ; How to protect our sense of being and identity and how to relate to it. The works that I referenced here from STS will offer a fresh insight into some of the current debates, concerns, and challenges that scholars from STS has raised over the past two decades. The epistemological explorations aims to justify and clarify specific problems posed and threatening the notion of our being, democracy and liberty in their widest sense and finally the Software engineering perspective helps to understand how we make and do things the way we do through the medium of technology. I made every attempt to bring together an in-depth and a wide range of substantial primary and secondary examples and discussions from academic literature, however due to the complexity and depth of each of the topics discussed and the fields that I fearfully entered, I would like to admit that it was not possible to give some of the scholars and fields enough attention that they deserved. I had to make this sacrifice in order to be able to develop an interdisciplinary response into a common concern and problem that all these fields explored and have in common. It is possible to dedicate a whole chapter or conduct a whole investigation into some of the works that I referenced here. For example: It is common practice to discuss and explore technology from a Heideggerian perspective, however there are about 17000 pages of primary work by him concerning the topic of "being" and it is outside the remit and focus of this thesis to take on the role of reviewing and interpreting all these works and its secondary sources (Harman, 2011).
 
-Some of the ideas and the beliefs in technological determinism is well captured in a 5 parts 1993 TV series documentary showing the history of computers from Babbage to Silicon valley. The tone and narrative of this series has a model of "before and after an invention" approach. In this title, the history of computers is being told in a way that once an invention was introduced to society, it will then have the life of its own. This belief that technology is the primary force that brings change to society goes back to early days of industrial revolution. Amongst individuals who believe in technological determinism, there are two common approaches that they follow a) soft view b) hard view. Soft view is based on the belief that social change is caused by technological change, however technology will be affected and changed by social pressures. Hard view however does not take into consideration the effect of social pressures and individuals who take the hard view approach, believe technology has its own autonomous momentum and force for change. (Smith and Marx, 1994)
+The first section explores the literature from an STS and philosophical perspective, developing a historical overview of important themes such as technological determinism, a brief chronological overview of philosophers of technology with more focus on Heideggerian perspective of technology specifically its recent metamorphosis "object oriented philosophy". In section two, I will investigate the dichotomy between localized forms of situated knowledge and universal ones. This will be through briefly exploring the notion of enumeration, some of its examples and in particular relevant studies tracing these practices in the last 400 years (context). Section three (specific issue) looks at the epistemological aspects of these practices, how do we get around to produce such knowledge forms? Finally in the last section I discussed how I produced the first substantial practice piece of this investigation in relation to the theories and literature explored in this chapter. At the end, I have reflected on some suggestions and arguments towards certain changes and approaches that could develop new forms of design thinking, discussing some elements of adversarial design, Disruptive design and Technological fluency. Leading ultimately to practices and productions of a more commensurable knowledge networks.
 
-Ulrich Beck in his very influential work in critique of science and technology states: "...With good reasons one can proceed from the perspective that the history of sciences was always less a history of the acquisition of knowledge than one of mistakes and practical lapses. That is why scien­tific 'knowledge', 'explanations', and practical 'suggested solutions' contradict each other diametrically over time" (Beck, 1992, p. 159). What Ulrich (1992) argues is the fact that from 18th century until mid twentieth century science functioned as a monopolised rational force of 'progress' without enough necessary reflections and critiques of its own practice. He argues that there are two strands in the modernization process from 'traditional' societies to industrialised ones. The strands are 1) primary and 2) reflexive. In the primary phase science is "applied to a 'given' world of nature, people and society. " (Beck, 1992, p. 155). In this phase the scientization process lacks reflection of its own procedures, however in the second phase the enlightenment and truth that science promised will get demystified. The second phase can be traced back as early as the beginning of twentieth century. The first phase whilst promising to bring enlightenment, liberty and free us from traditions and naturally destined ways of life to an industrial one at the same time they end up in dissolving some of its own values. In the second phase however not only science is not the sole provider of solutions, but rather the cause of problems. Don Ihde in his foreword to new waves in philosophy of technology (Olsen, 2008), traced three main waves of philosophers of technology. The first wave included scholars such as Marx and Kapp. Kapp (1877) was one of the first authors who used the title philosophy of technology in the 19^th^ century. The first wave of thinkers were mainly concerned with industrial revolution and its consequences. The consensus among scholars during this wave was barely dystopian. Only after the great war, came along strong voices of criticism and fear of autonomous technologies began to rise. Obviously there were also positive voices such as Franklin and Jefferson "...For them progress meant pursuit of technology and science in the interest of human betterment..." (Smith and Marx, 1994, p. 3) at the same time both were concerned with the implications of large scale technological reformations. Jefferson emphasized on the delicacy of liberty, virtue and power in society and on how they can easily become corrupted. Ihde argues that it was first the arts community who raised their concerns and fears of technology. One of the first works dealing with these new phenomena was Shelley's Frankenstein. Victor Frankenstein a researcher who has a strong belief in science, unable to recognise the consequences and ethics of his work and its creation the monster. Shelly's monster is very similar to how Beck (1992) describes early twentieth century role and challenges of science in industrial societies.
+I. A brief history of the present
+---------------------------------
+
+Technology is entwined in every aspect of our lives. "*Technologies feed, clothe, and provide shelter for us; they transport, entertain, and heal us; they provide the bases of wealth and of leisure; they also pollute and kill.*" (MacKenzie and Wajcman, 1999, p. 1). Whilst science and technology are being examined from variety of perspectives, In many of these argumentations there is a trace of technological determinism and using "*power language*"(Langdon Winner, 1980, p. 121) is common amongst both critiques and appraisers of technology. From a political viewpoint, it is crucial to objectify the technological determinism as it produces a passive attitude and discourages creative engagement with technology. From an intellectual standpoint technological determinism whilst producing knowledge and develops some aspects of our understanding of technology, it also reduces the relationship between society and things into a mere cause and effect relationship. Therefor it is vital to a) develop a historical and political understanding of the lines of enquiries about technology and what technology is. This endeavour is focused majorly on the fields of Science and Technology Studies (STS) and philosophy of technology. B) To develop a creative approach for crafting new technologies that can deal with fast pace of change and the new and old needs of our societies and communities. A framework that fosters and engages not only in crafting and making new technologies, but rather it is involved in shaping it and influencing it towards improvement of our beings, communities and environments.
+
+Some of the ideas and the beliefs in technological determinism is well captured in a 5 parts 1993 TV series documentary showing the history of computers from Babbage to Silicon valley. The tone and narrative of this series has a model of "before and after an invention" approach. In this title, the history of computers is being told in a way that once an invention was introduced to society, it will then have the life of its own. This belief that technology is the primary force that brings change to society goes back to early days of industrial revolution. Amongst individuals who believe in technological determinism, there are two common approaches that they follow a) soft view b) hard view. Soft view is based on the belief that social change is caused by technological change; They also admit that technology can be affected and changed by social pressures. Hard view believers on the other hand does not take into consideration the effect of social pressures and they believe technology has its own autonomous momentum and force for change. (Smith and Marx, 1994)
+
+Ulrich Beck in his very influential work in critique of science and technology states: "...With good reasons one can proceed from the perspective that the history of sciences was always less a history of the acquisition of knowledge than one of mistakes and practical lapses. That is why scien­tific 'knowledge', 'explanations', and practical 'suggested solutions' contradict each other diametrically over time" (Beck, 1992, p. 159). What Beck (1992) argues is the fact that from 18th century until mid-twentieth century science functioned as a monopolised rational force of 'progress' without enough necessary reflections and critiques of its own practice. He argues that there are two strands in the modernization process from 'traditional' societies to industrialised ones. The strands are 1) primary and 2) reflexive. In the primary phase science is "applied to a 'given' world of nature, people and society. " (Beck, 1992, p. 155). In this phase the scientization process lacks reflection of its own procedures, however in the second phase the enlightenment and truth that science promised will be demystified. The second phase can be traced back as early as the beginning of twentieth century. The first phase whilst promising to bring enlightenment, liberty and free us from traditions and naturally destined ways of life to an industrial one at the same time they end up in dissolving some of its own values. In the second phase however not only science is not the sole provider of solutions, but rather the cause of problems. Don Ihde in his foreword to new waves in philosophy of technology (Olsen, 2008), traced three main waves of philosophers of technology. The first wave included scholars such as Marx and Kapp. Kapp (1877) was one of the first authors who used the title philosophy of technology in the 19^th^ century. The first wave of thinkers were mainly concerned with industrial revolution and its consequences. The consensus among scholars during this wave was barely dystopian. Only after the Great War, strong voices of criticism and fear of autonomous technologies began to rise and emerge. Obviously there were also positive voices such as Franklin and Jefferson "...For them progress meant pursuit of technology and science in the interest of human betterment..." (Smith and Marx, 1994, p. 3) at the same time both were concerned with the implications of large scale technological reformations. Jefferson emphasized on the delicacy of liberty, virtue and power in society and on how they can easily become corrupted. Ihde argues that it was first the arts community who raised their concerns and fears of technology. One of the first works dealing with this new phenomena was Shelley's Frankenstein. Victor Frankenstein a researcher who has a strong belief in science, unable to recognise the consequences and ethics of his work and its creation the monster. Shelly's monster is very similar to how Beck (1992) describes the role and challenges of science in industrial societies in early twentieth century.
 
 ![][1]
 
 []{#_Toc518296753 .anchor}Figure 1 Analysis of technological determinism (Misa, 1988)
 
-Misa (1988, p. 310) identifies four major groups of philosophers of technology who technological determinism can be traced in their work. *"...as a justification for their field, as a theory to be elaborated (by Ellulians), as a theory to be rejected (by Marxists), and as the starting premise for a technological politics...".* The deterministic approach has taken a similar pattern of development amongst historians of business, cities and science specially between 1977 to mid-eighties. This decade is portrayed by Misa (1988) as the time where most historians saw technology the causal force for change in our societies or at least in Western societies.
+Misa (1988, p. 310) identifies four major groups of philosophers of technology whom technological determinism can be traced in their work. *"...as a justification for their field, as a theory to be elaborated (by Ellulians), as a theory to be rejected (by Marxists), and as the starting premise for a technological politics...".* The deterministic approach has taken a similar pattern of development amongst historians of business, cities and science specially between 1977 to mid-eighties. This decade is portrayed by Misa (1988) as the time where most historians saw technology the causal force for change in our societies or at least in Western societies.
 
-Whilst many scholars since mid eighties have been emphasising on the importance of objectifying determinism, it is also important to remember that technology should not be considered as both the sole problem maker and solution provider. Heidegger (1977, p. 3) "*...We shall be questioning concerning technology, and in so doing we should like to prepare a free relationship to it.*" What Heidegger attempts to do in this essay is to represent the essence of technology and by essence, he means the way something endures its life through time and history. By essence he refers to the original and true meaning of it and not the one distorted and corroded through roman translation and later taken by Christianity. The origin of the word essence comes from physis where Heidegger defines it as (1961, p. 14) "*Physis is being itself, by virtue of which essents become and remain observable... Physis means the power that emerges and the enduring realm under its sway. This power of emerging and enduring includes \"becoming\" as well as \"being\"*".
+Whilst many scholars since mid eighties have been emphasising on the importance of objectifying determinism, it is also important to remember that technology should not be considered as both the sole problem maker and solution provider. Heidegger (1977, p. 3) "*...We shall be questioning concerning technology, and in so doing we should like to prepare a free relationship to it.*" What Heidegger attempts to do in this essay is to represent the essence of technology and by essence, he means the way something endures its life through time and history. By essence, he refers to the original and true meaning of it and not the one distorted and corroded through roman translation and later taken by Christianity. The origin of the word essence comes from physis where Heidegger defines it as (1961, p. 14) "*Physis is being itself, by virtue of which essents become and remain observable... Physis means the power that emerges and the enduring realm under its sway. This power of emerging and enduring includes \"becoming\" as well as \"being\"*".
 
-One of Heidegger projects was to redefine the concept of "being" as he believed this would help us to understand and justify our relationship with many other constructs and things such as technology. In being and time (Heidegger, 1996) he applies a phenomenological method where he attempts to define being through a temporal study of human experience. The ontological approach that he took in being and time however was not complete and he did not manage to complete the task of redefining being. In introduction to metaphysics, he tried to continue with his enterprise however he ended up presenting a detailed critique of western philosophy and hitherto did not manage to provide a complete understanding of being. Heidegger compares the word "is" in language to being. He provides several examples in spoken language where in each sentence "is" has a different meaning for example The car is mine (belongs to), The book is in the library (located), the ring is of gold (made of), etc... In all these examples and many more, "is" contains a prolific multiplicity of meanings. Similarly for "being" the definite range of meaning contained by "the sphere of actuality and presence, of permanence and duration, of abiding and occurrence." (Heidegger, 1961, p. 92). Similarly, if we were to understand and define the essence of technology, this does not mean any specific technological thing. Since technology existed as long as civilizations, what Heidegger tries to clarify is questioning the basis and definitions of what we perceive as technology and our relationship with it. He believed (Heidegger, 1977, p. 26) "when we once open ourselves expressly to the essence of technology, we find ourselves unexpectedly taken into a freeing claim.". As shown in the example above with the multiplicity of meaning, similarly the widely agreed and used definition of technology as a human activity or a means to an end is also merely an instrumental definition and does not overlay the real truth about the essence of technology. What Heidegger is trying to free us from is thinking everything through the medium of technology, instead of having a free relationship with it. In his early works until 1955 his work is arguably has a romantic anti-technology and anti-consumerism approach, potentially due to war effect similar to other science and technology critics after the Great War and Second World War. In his later work on the contrary he states that the concern and worries on the loss and destruction caused by technology is merely a technological thinking (Dreyfus and Wrathall, 2002). Heidegger emphases on the dangers of technological thinking "In this dawning atomic age a far greater danger threatens-precisely when the danger of a third world war has been removed. A strange assertion! Strange indeed, but only as long as we do not meditate. In what sense is the statement just made valid? This assertion is valid in the sense that the approaching tide of technological revolution in the atomic age could so captivate, bewitch, dazzle, and beguile man that calculative thinking may someday come to be accepted and practiced as the only way of thinking." (1966, p. 56) . The technological thinking is when we lose our ability to mediate and the idea of subjectivity and objectivity becomes more fluid. Tiqqun (2001, p. 3) reminds us of this danger by stating that majority of critical thinkers of our time are negligent of the rise of "*cybernetics as a new technology of government*". He later states that the cybernetics is based on the projection that all things (humans and non-humans) and their relationships are inherently algorithmically conditioned and reconditionable. This is what Foucault referred to as "piloting" (2005, p. 249) a model consisting of three techniques medicine, political government and government of the self. Foucault refers to the post twentieth century piloting as "governmentality" (Foucault et al., 1991, p. 102). The change that occurs during this century and beyond is the fact that the piloting is not merely concerned with self and others but it is concerned with everything. In July 2014 UK government introduced a new legislation Data Retention and Investigatory Powers Act 2014 (DRIP) which was later called snooper\'s charter. This act obliged Internet Service Providers (ISPs) to regularly capture and store internet and communication activities of their users. Whist the act was challenged and it is under review due to high level of public outcry and legal challenges (Cobain, 2018; "Data Retention Directive - ORG Wiki," n.d.) it is one example amongst many others (for examples see: ) of what Deutsch (1963) called the "Nerves of Government". Deutsch enterprise was to develop a new political theory that is concerned with the new era of governmentality. A politics that offers people the ability to "that men should be more able to act in politics with their eyes open" (Deutsch, 1963, p. 255). Barabasi (2003) explores many new field of science being developed in the 21^st^ century and find many similarities between them and exploring and introducing new sciences from a cartographic perspectives. Wiener (1961, p. 39) compares the 18^th^ to early 19^th^ centuries as being the age of steam engines, he then describes the 20^th^ century as age of communication and control. Wienar invented an approach of applying probability and statistical models into a network in order to represent and reproduce information that is uncertain based on what we know about a system. This line of enquiry was first developed by Wiener in order to predict the movement of aircraft during Second World War. The technology is now more mature and accessible in many occasions free of charge available online under navigational softwares[^1]. Similar to Barabasi who compares the network of internet with network of life on our planet and almost suggest they are indentical, Tiqqun (Tiqqun, 2001, p. 18) discusses the enterprise of neural network as they try to mimic human brain (Hecht-Nielsen, 1988; Schmidhuber, 2015). Inviting the reader to explore the present-day history of economic discourse as an "information problem" (Foucault (Rose, 1991, p. 105) calls this "Power/knowledge"). A trend in the last thirty years has started which is refered to as financlialization. Financialization is the transformation process that results in markets taking over every aspects of our life. For example: Russi (2013) shows the effect of market and informationization of food industry; Martin (2002) provides a detailed overview of techniques and practices of financialization both through regulations prioritised by governments as well as its presence in the education system; Sotiropoulos (Sotiropoulos et al., 2013) presents a fresh overview of capitalist power relations based on financial derivatives. Davis (2009) representing some of the underlying practices that has changed the American society and reshaped it into a market centred logic where individuals are becoming shareholder agents, resulting in many vital human needs becoming highly dependent on Stock and mortgage markets. Financialization increasingly gaining more attention within academia, for example in the UK Digital Economy is a research theme bringing together fields such as "These include Energy, Transport, Manufacturing, Health and Care, Creative and Cultural and Service Industries (particularly those driven by data such as Retail, Insurance, Financial and Advertising)." ("Digital Economy Theme strategy - EPSRC website," n.d.) ). Kant (Matthews et al., 2000) describes the experience of this new form of capitalism as sublime experience, according to his there are two forms of experience: mathematically sublime, which is an experience where we deal with a confli between our rational and imagination. Our reason tells us things are restricted and limited and on the other hand our imagination provides an infinite representation of reality, in this mathematical sublime experience due to universalistic approach to knowledge representation, we encounter experiences that are so much larger than ourselves that we struggle to take them in as a whole. The other sublime experience that Kant discusses is dynamically sublime where an object seems so much bigger than stronger than ourselves that we will experience a strong sense of helplessness and weakness towards them. Further Kant argues that these emotions are not based on real experiences as in the experience of actual danger our feeling are very different from the sublime experiences. This line of Kan't enquiry brings us back to how Heidegger (1966) sees this experience as technological thinking. Calculative thinking was a requirement and pillar of Fordism and Taylorism, where information was the building block of automating and making processes predictable and repeatable. Webster (2014, pp. 74--105) identifies key features about the era that we identify as Fordist-Keynesian era (1945-73). This period consists of developing systems and techniques to increase production and consumption at large scale. Large factories with hundreds and thousands of employees were a common manufacturing practice of this era. This enterprise that reached its peak during fifties and early sixties in parallel developed another trend which was mass consumption fuelled by the high percentage of employment (2 per cent unemployment in Britain) and advertising industries. Whilst there are large scale manufacturing example prior and post this era for example the Manhattan project that had over three hundred thousands of works, scholars and technicians to develop the atomic bomb. What can be traced in most of these is standardization and complex organization. There are much discussions and theories trying to make sense and understand various aspects of this period, however the main purpose of this historical journey is to discuss and find some key characteristics which can help towards understanding and finding threads that shaped and reshaping the world that we live in today. During 1970s a new trend began to emerge under the umbrella of globalisation. "it signals the growing interdependence and interpenetration of human relations alongside the increasing integration of the world's socio-economic life... an explosive growth of migration, tourism, hybrid musical forms and heightened concern for global political strategies\..." (Webster, 2014, p. 77). Thrift (Thrift et al., 2014, p. 8) defines globalization as a assemblage of practices to manage and solve the problems of "propinquity" and "credibility".
+One of Heidegger projects was to redefine the concept of "being" as he believed this would help us to understand and justify our relationship with many other constructs and things such as technology. In being and time (Heidegger, 1996) he applies a phenomenological method where he attempts to define being through a temporal study of human experience. The ontological approach that he took in being and time however was not complete and he did not manage to complete the task of redefining being. In introduction to metaphysics, he tried to continue with his enterprise however, he ended up presenting a detailed critique of western philosophy and hitherto did not manage to provide a complete understanding of being. Heidegger compares the word "is" in language to being. He provides several examples in spoken language where in each sentence "is" has a different meaning for example The car is mine (belongs to), The book is in the library (located), the ring is of gold (made of), etc... In all these examples and many more, "is" contains a prolific multiplicity of meanings. Similarly for "being" the definite range of meaning contained by "the sphere of actuality and presence, of permanence and duration, of abiding and occurrence." (Heidegger, 1961, p. 92). Similarly, if we were to understand and define the essence of technology, this does not mean any specific technological thing. Since technology existed as long as civilizations, what Heidegger tries to clarify is questioning the basis and definitions of what we perceive as technology and our relationship with it. He believed (Heidegger, 1977, p. 26) "when we once open ourselves expressly to the essence of technology, we find ourselves unexpectedly taken into a freeing claim.". As shown in the example above with the multiplicity of meaning, similarly the widely agreed and used definition of technology as a human activity or a means to an end is also merely an instrumental definition and does not overlay the real truth about the essence of technology. What Heidegger is trying to free us from is thinking everything through the medium of technology, instead of having a free relationship with it. In his early works until 1955 his work is arguably has a romantic anti-technology and anti-consumerism approach, potentially due to war effect similar to other science and technology critics after the Great War and Second World War. In his later work on the contrary he states that the concern and worries on the loss and destruction caused by technology is merely a technological thinking (Dreyfus and Wrathall, 2002). Heidegger emphases on the dangers of technological thinking "In this dawning atomic age a far greater danger threatens-precisely when the danger of a third world war has been removed. A strange assertion! Strange indeed, but only as long as we do not meditate. In what sense is the statement just made valid? This assertion is valid in the sense that the approaching tide of technological revolution in the atomic age could so captivate, bewitch, dazzle, and beguile man that calculative thinking may someday come to be accepted and practiced as the only way of thinking." (1966, p. 56) . The technological thinking is when we lose our ability to mediate and the idea of subjectivity and objectivity becomes more fluid. Tiqqun (2001, p. 3) reminds us of this danger by stating that majority of critical thinkers of our time are negligent of the rise of "*cybernetics as a new technology of government*". He later states that the cybernetics is based on the projection that all things (humans and non-humans) and their relationships are inherently algorithmically conditioned and reconditionable. This is what Foucault referred to as "piloting" (2005, p. 249) a model consisting of three techniques medicine, political government and government of the self. Foucault refers to the post twentieth century piloting as "governmentality" (Foucault et al., 1991, p. 102). The change that occurs during this century and beyond is the fact that the piloting is not merely concerned with self and others but it is concerned with everything. In July 2014 UK government introduced a new legislation Data Retention and Investigatory Powers Act 2014 (DRIP) which was later called snooper\'s charter. This act obliged Internet Service Providers (ISPs) to regularly capture and store internet and communication activities of their users. Whist the act was challenged and it is under review due to high level of public outcry and legal challenges (Cobain, 2018; "Data Retention Directive - ORG Wiki," n.d.) it is one example amongst many others (for examples see: ) of what Deutsch (1963) called the "Nerves of Government". Deutsch enterprise was to develop a new political theory that is concerned with the new era of governmentality. A politics that offers people the ability to "that men should be more able to act in politics with their eyes open" (Deutsch, 1963, p. 255). Barabasi (2003) explores many new field of science being developed in the 21^st^ century and find many similarities between them and exploring and introducing new sciences from a cartographic perspectives. Wiener (1961, p. 39) compares the 18^th^ to early 19^th^ centuries as being the age of steam engines, he then describes the 20^th^ century as age of communication and control. Wienar invented an approach of applying probability and statistical models into a network in order to represent and reproduce information that is uncertain based on what we know about a system. This line of enquiry was first developed by Wiener in order to predict the movement of aircraft during Second World War. The technology is now more mature and accessible in many occasions free of charge available online under navigational softwares[^1]. Similar to Barabasi who compares the network of internet with network of life on our planet and almost suggest they are indentical, Tiqqun (Tiqqun, 2001, p. 18) discusses the enterprise of neural network as they try to mimic human brain (Hecht-Nielsen, 1988; Schmidhuber, 2015). Inviting the reader to explore the present-day history of economic discourse as an "information problem" (Foucault (Rose, 1991, p. 105) calls this "Power/knowledge"). A trend in the last thirty years has started which is refered to as financlialization. Financialization is the transformation process that results in markets taking over every aspects of our life. For example: Russi (2013) shows the effect of market and informationization of food industry; Martin (2002) provides a detailed overview of techniques and practices of financialization both through regulations prioritised by governments as well as its presence in the education system; Sotiropoulos (Sotiropoulos et al., 2013) presents a fresh overview of capitalist power relations based on financial derivatives. Davis (2009) representing some of the underlying practices that has changed the American society and reshaped it into a market centred logic where individuals are becoming shareholder agents, resulting in many vital human needs becoming highly dependent on Stock and mortgage markets. Financialization increasingly gaining more attention within academia, for example in the UK Digital Economy is a research theme bringing together fields such as "These include Energy, Transport, Manufacturing, Health and Care, Creative and Cultural and Service Industries (particularly those driven by data such as Retail, Insurance, Financial and Advertising)." ("Digital Economy Theme strategy - EPSRC website," n.d.) ). Kant (Matthews et al., 2000) describes the experience of this new form of capitalism as sublime experience, according to his there are two forms of experience: mathematically sublime, which is an experience where we deal with a confli between our rational and imagination. Our reason tells us things are restricted and limited and on the other hand our imagination provides an infinite representation of reality, in this mathematical sublime experience due to universalistic approach to knowledge representation, we encounter experiences that are so much larger than ourselves that we struggle to take them in as a whole. The other sublime experience that Kant discusses is dynamically sublime where an object seems so much bigger than stronger than ourselves that we will experience a strong sense of helplessness and weakness towards them. Further Kant argues that these emotions are not based on real experiences as in the experience of actual danger our feeling are very different from the sublime experiences. This line of Kan't enquiry brings us back to how Heidegger (1966) sees this experience as technological thinking. Calculative thinking was a requirement and pillar of Fordism and Taylorism, where information was the building block of automating and making processes predictable and repeatable. Webster (2014, pp. 74--105) identifies key features about the era that we identify as Fordist-Keynesian era (1945-73). This period consists of developing systems and techniques to increase production and consumption at large scale. Large factories with hundreds and thousands of employees were a common manufacturing practice of this era. This enterprise that reached its peak during fifties and early sixties in parallel developed another trend which was mass consumption fuelled by the high percentage of employment (2 per cent unemployment in Britain) and advertising industries. Whilst there are large scale manufacturing example prior and post this era for example the Manhattan project that had over three hundred thousands of works, scholars and technicians to develop the atomic bomb. What can be traced in most of these is standardization and complex organization. There are much discussions and theories trying to make sense and understand various aspects of this period, however the main purpose of this historical journey is to discuss and find some key characteristics which can help towards understanding and finding threads that shaped and reshaping the world that we live in today. During 1970s a new trend began to emerge under the umbrella of globalisation. "it signals the growing interdependence and interpenetration of human relations alongside the increasing integration of the world's socio-economic life... an explosive growth of migration, tourism, hybrid musical forms and heightened concern for global political strategies\..." (Webster, 2014, p. 77). Thrift (Thrift et al., 2014, p. 8) defines globalization as an assemblage of practices to manage and solve the problems of "propinquity" and "credibility". According to Webster the globalization is a continuing enterprise that requires several infrastructural transformations. 1) globalization of the market: this means wider reach of customers worldwide, more competition as well as complex infrastructure of communication and transport. Ian Cook over the past two decades developed a peer reviewed online library of case studies (Cook, 2018) of consumer products emphasizing and showing their social relations and ethics of production. For example Cooks (2004) shows the complex network food industry through following a Jamaican papaya from its farm, network of export and importers, the financial derivatives to the supermarket shelves and into consumer homes and consumer culture developed around thing object. In the beginning of twentieth century, transatlantic cables provided the infrastructure that allowed a transaction to be made within 5 minutes. A similar transaction is now under development that can transfer information between London in New York within 60 milliseconds. The networks of trade and globalization has always existed and it is arguably as old as civilization. Archaeological works shows "...northern Europe was hyper-connected through networks of trade as early as Bronze and Iron Ages, through the spice route to the Roman Empire, through the vagaries of the Chinese or Venetian empires, through the rise of Atlantic economy..."(Thrift et al., 2014, p. 10). The complex logistical and infrastructural changes through globalization should not be only seen through the financial lens, nevertheless its traces can be found both macro and micro practices. (Thrift et al., 2014).
+
+Harman (2011) provides a detailed account of Heidegger's analysis of tools or tool-being (Zuhandenheit), he goes as far as suggesting that majority of historians and scholars who interpret Heidegger were misled by his binary, in-depth playful analysis of the same topic through a complex journey of words and language. Harman offers a new insight into not Heidegger's philosophy but into himself and his concerns. What Harman proposes is a philosophy based on what Heidegger initiated an "object oriented philosophy" (2011, p. 20). Fry emphasis on the importance of this lines of enquiry and philosophical investigation "It is crystal clear that neither the weary humanism, the complacent scientism of lingering Enlightenment, nor posthumanist pluralist postmodernism (with its anti-foundationalism) can provide the intellectual blood, sweat and tools to deal with this situation." (2006, p. 22).
 
 Techne is "...denotes neither art nor technology but a knowledge, the ability to plan and organize freely, to masterinstitutions (cf. Plato\'s Phaedrus). Technê is creating, building in the sense of a deliberate pro-ducing." (Heidegger, 1961, p. 11), "tekhnb (an art, a reflected system of practices referring to general principles, notions, and concepts" (Foucault, 2005, p. 249)
 
@@ -78,24 +94,12 @@ Winner (1980) calls for more holistic study of technology and to look at technol
 
 One popular explanation of what shapes technology is the view that suggest technology is shaped and formed based on scientific discoveries and explorations.
 
-Abstract
-========
-
-This chapter looks at the last 400 years of enumeration, high modernism and financialisation to provide a map of inter-related actors that created the world the way it is today. This will be through three lenses, from the perspective of knowledge production (Epistemology), Relationship between knowledge forms, corporations and legislation (technology) and finally last few decades of finantialisation. This chapter aims to thread through an amalgamation of philosophies, legislations, social movements and scientific breakthroughs which started during 16^th^ century and continued to this moment. These changes and approaches to individuals, society and community have changed our relationships not just with one another, but with the world to an extensive level. The purpose for the next two chapters are to identify some concerns and challenges caused by science and technology?
-
-1. Enumeration, simplification and universalism
-===============================================
+II. Enumeration, simplification and universalism
+------------------------------------------------
 
 "Every state happy or unhappy, was statistical in its own way." (Scott, 1998, p.16)
 
-This section examines the dichotomy between localized forms of situated knowledge and coercive, universal ones crafted by institutions of liberal democratic regimes. The first section briefly explores the notion of enumeration, some of its examples and in particular relevant studies tracing these practices starting in the last 400 years. Section 2 looks at the epistemological aspects of these practices, how do we get around to produce such knowledge forms. And the last section of this chapter will look technology, finance and financializaiton. Finally, this section provides some suggestions and arguments towards certain changes and approaches that could develop new forms of design thinking, leading ultimately to more commensurable knowledge networks.
-
-I would like to begin this section by summarising a story by Georges Perec, Life: A User\'s Manual (1978): in his book Perec, tells the story of a millionaire in an apartment block, paused in time with an exquisite detailed description of each room in the building. In great detail he describes the vast array of things in the building: the furniture, the setting, the atmosphere. The millionaire employs a puzzle maker, a painter and chemist for a task similar to that in Camus' *The Myth of Sisyphus*. He then chooses 62 sceneries from around the world, where the painter would turn them into watercolor paintings, the puzzle maker into increasingly complicated puzzles. He then spends two weeks solving them, before finally erasing them and turning them back to a blank canvas by using the chemicals made by the chemist. At the end of the story, the main character is running away from a person who is trying to stop him from ruining all the artworks. The millionaire dies whilst holding a puzzle piece in a shape of the letter "W", however the last remaining piece of the puzzle is in the shape of letter X.
-
-This story is a prescient metaphor for our data-centred contemporary lives. If we replace the characters and the style of the game, taking a moment to reflect on it and compare it to big-data society with statistics and numbers about every aspect of our life, these numbers become the puzzles pieces, with data mining institutions such as Facebook and Google the puzzle makers whilst being the puzzle solvers (millionaire) at the same time. The artist would be the 'establishment'. Perec's aim was to tell the story of one life through the complex networks of many lives and objects: however, in this chapter I argue that the institutions of liberal democracies are reducing society into categorized, simplified, and reductive individuals. James C. Scott (Scott, 1998, p.184) calls this the "civilizing process" or "domestication", which has three sub-processes: "sedentarization", "concentration" and "radical simplification". Although sedentarization is outside of the scope of this chapter (see: Urry, 2004; Cresswell, 1993; Adams, 1999), the other two sub-processes will be discussed in the next sections
-
-1.1 Enumeration - The Man Whose Essence was Plotted by a Thousand Numbers
---------------------------------------------------------------------------
+"Enumerate" is defined by Merriam-Webster dictionary ("Definition of ENUMERATE," 2018) as "to ascertain the number of: count" or "to specify one after another: list". In this chapter I argue that the institutions of liberal democracies are reducing society into categorized, simplified, and reductive individuals. James C. Scott (Scott, 1998, p.184) calls this the "civilizing process" or "domestication", which has three sub-processes: "sedentarization", "concentration" and "radical simplification". Although sedentarization is outside of the scope of this chapter (see: Urry, 2004; Cresswell, 1993; Adams, 1999), the other two sub-processes will be discussed in this section.
 
 *"Legibility is a condition of manipulation. Any substantial state intervention in society \... requires the invention of units that are visible. The units in question might be citizens, villages, trees, fields, houses, or people grouped according to age, depending on the type of intervention"* (Scott, 1998, p.183)
 
@@ -103,8 +107,7 @@ Charles Babbage writing in 1832 noted the importance of collecting numbers, call
 
 Again, this become normalized to the extent that the notion of surnames as modes of identification has become so embedded in everyday life that it is almost taken as *a priori*. Traditionally, surnames names were primarily a form of identification based on local knowledge: for example, as Scott notes, in England if there were multiple Johns, then locational or occupational clues would be used to reduce ambiguity. For instance, John Hill referring to John who lives on the Hill, or John Mills, John who owned a mill.[^2] Foucault\'s conception of biopolitics and anatomopolitics is described by Hacking as the statistical establishment of the last three hundred years. We see the biopolitical starting around 1763 under the reign of Fredrich the Great for the purpose of restoring and managing the vanished population after seven years of war. This process then continues and gave birth in the next hundred years to centralized institutions specialized in collecting, creating and analysing numbers about people and things, as described by Hacking (1990, p.34): "The institutions brought a new kind of man into being, the man whose essence was plotted by a thousand numbers". Using one of Scott's (1998, p.4) four elements of the birth of the modern state, the measurement of the subject by enumeration is the "administrative ordering of nature and society". Critically the process of ordered gridding of the social becomes embedded in the fabric of everyday life to the extent that essence and appearance become interchangeable. The other three elements contributing to the birth of modern states are high modernist ideology, which is a by-product of science and technology "progress", emergency powers that sprang up at difficult times such as war and famine which gives them unquestionable power to initiate utopian/heterotopian ideas and social engineering projects and lastly weak citizen mobilisation, engagement and power.
 
-1.2 The Science of Muddling Through: Or from Locals to Universals
------------------------------------------------------------------
+### II.I The Science of Muddling Through: Or from Locals to Universals
 
 *"...The existence of French men and women around 1790 was made miserable by, among other things, 700 or 800 differently named measures and untold units of the same name but different sizes. A \"**pinte\" in Paris came to 0.93 liter; in Saint-Denis, to 1.46; in Seine-en-Montagne, to 1.99; in Précy-sous-Thil, to 3.33. The aune, a unit of length, was still more prolific: Paris had three"* (Frängsmyr et al., 1990, p.207)
 
@@ -116,8 +119,7 @@ One would expect the relationship between indeterminism and statistics to be an 
 
 addaddNotes + explanation of essense and appearance\....
 
-1.3. What do we loose through enumeration and economical development
---------------------------------------------------------------------
+### II.II. What do we loose through enumeration and economical development
 
 *"Market culture undermines traditional communities wherever it penetrates -- just as it has undermined community on its home turf for the last four hundred years"*(Marglin, 2008, p.246)
 
@@ -131,8 +133,8 @@ In this case study, one can see a large profit and income inequity between the E
 
 Just as Hacking (1990) argued that enumeration and statistics was a technology that has been used in colonies, it then later on became a technology for governing their own population, another technology of colonisers were imperialism and vanishing non-western cultures which then gave birth to globalisation which also universalised culture both in the new worlds and back at home in Europe. This created a sense of "imagined community" as Marglin labeled it (2008). After all of these counting and justifying the negativities of enumeration and globalisation, it is important also to remember their positive aspects in order to seek out commensurable solutions and think openly about solutions to these complex and multifaceted problems of universalism and reduction of cultures and communities. If we partially agree that globalisation and enumeration also have positive elements then the central question here would be "how we as a community, designers, technologists and scientists would position ourselves in the spectrum between community and globalisation, between deliberation and consensus, between participation and representation?"
 
-2. Governmentality or science of objectification
-================================================
+III. Governmentality or science of objectification
+--------------------------------------------------
 
 *"Social power of a collective is a function of the distribution of knowledge over the collective"* (Bellamy, 1993, p.211)
 
@@ -158,8 +160,8 @@ In previous sections, we discussed some of the un/intented consequences of techn
 
 Technologies of the hubris or "administrative ordering of nature and society" according to Scot (Scott, 1998, p.4) is one of the four elements that contributes to the birth of modern states that tend to create large scale organised systems, cities, grids and states. The next three elements are high modernist ideology, which is a by-product of science and technology "progress", emergency powers that sprang up at difficult times such as war, famine and so on which gives them unquestionable power to initiate utopian ideas and social engineering projects and lastly weak citizen mobilisation, engagement and power (Scott, 1998). If we persue with the same expert knowledge production techniques, humanities and social researchers have the important role of deliberating and bringing some of these long terms disastrerous effects of sicence and technology into the locus of general public, however as mentioned earlier, we are also dealing with a society who quickly adapts and accpets unknown changes, which results in a fast pace of technological advancements a condition that Lindblom () calles "all thumbs and no fingers", with anthropologists, socialogists and social researchers out of breath left behind in the "field". This even makes it more important for a new sets of technologies as Jasanoff calles them "technologies of humility".
 
-3. Discussion on Knowledge and information
-==========================================
+IV. Overview on Knowledge and information
+-----------------------------------------
 
 *"\...But with the repression of political life in the land as a whole, \...without unrestricted freedom of press and assembly, without a free struggle of opinion, life dies out in every public institution, becomes a mere semblance of life, in which only the bureaucracy remains as the active element. Public life gradually falls asleep, a few dozen party leaders of inexhaustible energy and boundless experience direct and rule."*(Luxemburg, 1992, p.72)
 
@@ -217,8 +219,151 @@ prejeduces
 
 Knowledge exchange strategies
 
+V. OpenBubble
+-------------
+
+In order to develop an extention for firefox and other browsers, there are many technologies available, however the Webextentions API offers a portable solution that can be ported to Chrome, Foirefox and Safari.
+
+Useful functions
+
+[history.deleteUrl()]
+
+*The key can contain three kinds of permissions:*
+
+*host permissions*
+
+*API permissions*
+
+*the activeTab permission*
+
+some similar tools
+
+<https://www.cnet.com/news/google-and-nest-reunite-in-push-to-add-ai-to-every-gadget/>
+
+Interviews:
+
+Spoke with Gavin Maxwell expert in
+
+**Content Security Policy**
+
+A limiting aspect of web extention API is the content security policy which only allows the extention to inject script to specific web pages that matches the URL pattern registered as part of manifest file.
+
+Tutorials
+
+Firefox official tutorials:
+
+<https://addons.mozilla.org/en-GB/developers/>
+
+<https://developer.mozilla.org/en-US/Add-ons>
+
+<https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension>
+
+*"When all think alike, then no one is thinking." -- Walter Lippmann*
+
+Article on echo chamber and data bubble
+
+<https://www.huffingtonpost.com/entry/how-to-break-out-of-an-echo-chamber-your-bubble_us_58e1be20e4b03c2b30f6a7ff>
+
+Google ads according to their privacy statement\[1[^6]\] is based on search keywords, use of google maps, websites that the user visited and visits (through their analytics), videos you've watched on youtube and also other data that they collect from their partner organisation. In order to disrupt this data persona.
+
+Ads is one of the main revenues of knowledge fascilitators such as google. We do have access to some of this without asking users for too much information. For example disrupting search persona or visiting websites outside the interest bubble of our users, however some others are more difficult for example google receives information about users wish lists and shopping baskets from some of their business partners which is not clear who they are and what they share and this data will be more difficult to disrupt. According to google's privacy statement, they don't read email content and they don't analyse it. In addition in their "Your Data"[^7] page they also explain in general terms what data do they collect on each user these include:
+
+In order to reverse engineer and disrupt data collections, ORG suggested to get a copy of my data on some of the platforms.
+
+![][2]
+
+Diagram shows google dashboard allowing the users to download their data.
+
+Once you complete the request, I got an email after a few hours with my data
+
+In order to get the right format of data a request to Wikipedia needs to be sent, users can first generate their queries by using API sandbox to work their way through a very complex api with many properties and information filtering mechinisms which provides a great and flexible approach to data retrieval however complex for novice users.
+
+![][3]
+
+Semantic joice is another example to query nad find controvercial topics.
+
+<https://www.semanticjuice.com/controversial-topics/>
+
+![][4]
+
+![][5]
+
+**Activities:**
+
+"
+
+Emails that you send and receive on Gmail
+
+Contacts that you add
+
+Calendar events
+
+Photos and videos that you upload
+
+Docs, Sheets and Slides on Drive
+
+"
+
+**Personal Information**
+
+**"**
+
+Name
+
+Email address and password
+
+Date of birth
+
+Gender
+
+Telephone number
+
+Country
+
+"
+
+The extent of use for all of these information is beyond comprehention as the corporation uses these to offer many benefitial services. Who benefits most from these services is not clear and subject to many discussions and debate.
+
+Google has a range of categories for sensitive ads allowing the users to block them, these include :
+
+Birth control
+
+Black Magic, Astrology & Esoteric
+
+Cosmetic procedures & body modification
+
+Consumer Loans
+
+Dating
+
+Downloadable Utilities
+
+Typical examples include anti-virus software, file converters, driver updaters, system cleaners, download managers, disk defragmenters, codecs, browser toolbars, ringtones, screensavers, wallpapers, and so on.
+
+Drugs & supplements
+
+Get rich quick
+
+Politics
+
+Reference to sex & sexuality
+
+Religion
+
+Sexual and reproductive health
+
+Social Casino Games
+
+Video games (casual & online)
+
+Weight loss
+
+Gambling & Betting (18+)
+
+Alcohol
+
 Conclusion
-==========
+----------
 
 *"To be governed is to be watched over, inspected, spied on, directed, legislated, regimented, closed in, indoctrinated, preached at, controlled, assessed, evaluated, censored, commanded; all by creatures that have neither the right, nor wisdom, nor virtue. . . . To be governed means that at every move, operation, or transaction one is noted, registered, entered in a census, taxed, stamped, priced, assessed, patented, licensed, authorized, recommended, admonished, prevented, reformed, set right, corrected."(Chomsky, 2003, p.17)*
 
@@ -233,11 +378,11 @@ How design can foster a new relationship with technology, a relationship that ca
 Next chapter will look at Knowledge forms available within Britain about the financial sector, who produce them and their relationship with gevening technologies of British governement. Only after these two analysis we will be able to think about ways that can offer new techniques of citizen participation and deliberation which will be the focus of chapter 3.
 
 References
-==========
+----------
 
-Barabási, A.-L., 2003. Linked: The new science of networks.Batchelor, T., 2015. Queen in TERROR threat - Security alert as mobile app lets ANYONE track royal helicopter \[WWW Document\]. Express.co.uk. URL https://www.express.co.uk/news/royal/595420/Queen-terror-threat-security-alert-mobile-app-tracks-royal-helicopter (accessed 7.8.18).Beck, U., 1992. Risk society: towards a new modernity, Theory, culture & society. Sage Publications, London ; Newbury Park, Calif.Cobain, I., 2018. UK has six months to rewrite snooper's charter, high court rules. The Guardian.Data Retention Directive - ORG Wiki \[WWW Document\], n.d. URL https://wiki.openrightsgroup.org/wiki/Data\_Retention\_Directive (accessed 7.6.18).Davis, G.F., 2009. Managed by the markets: How finance re-shaped America. Oxford University Press.Deutsch, K.W., 1963. The nerves of government; models of political communication and control.Digital Economy Theme strategy - EPSRC website \[WWW Document\], n.d. URL https://epsrc.ukri.org/research/ourportfolio/themes/digitaleconomy/digital-economy-theme-strategy/ (accessed 7.9.18).Dreyfus, H.L., Wrathall, M.A., 2002. Heidegger Reexamined. Volume 3. Art, Poetry, and Technology. Routledge.Flightradar24, n.d. Flightradar24.com - Live flight tracker! \[WWW Document\]. Flightradar24. URL https://www.flightradar24.com/ (accessed 7.8.18).Foucault, M., 2005. The Hermeneutics of the Subject. Palgrave Macmillan US, New York. https://doi.org/10.1007/978-1-137-09483-4Foucault, M., Burchell, G., Gordon, C., Miller, P., 1991. The Foucault effect: Studies in governmentality. University of Chicago Press.Hecht-Nielsen, R., 1988. Neurocomputing: picking the human brain. IEEE Spectrum 25, 36--41. https://doi.org/10.1109/6.4520Heidegger, M., 1996. Being and time: A translation of Sein und Zeit. SUNY press.Heidegger, M., 1977. The question concerning technology, and other essays. Garland Pub, New York.Heidegger, M., 1966. Discourse on thinking a translation of Gelassenheit. Harper & Row.Heidegger, M., 1961. An introduction to Metaphysics. Yale University Press.Kapp, E., 1877. Grundlinieneiner Philosophie der Technik. Braunschweig: Druck.Langdon Winner, 1980. Do Artifacts Have Politics? Daedalus 109.Lashinsky, A., 2018. Alibaba v. Tencent: The Battle for Supremacy in China \[WWW Document\]. Fortune. URL http://fortune.com/longform/alibaba-tencent-china-internet/ (accessed 7.10.18).MacKenzie, D.A., Wajcman, J. (Eds.), 1999. The social shaping of technology, 2nd ed. ed. Open University Press, Buckingham \[Eng.\] ; Philadelphia.Martin, R., 2002. Financialization of daily life. Temple University Press.Matthews, E., Kant, I., Guyer, P. (Eds.), 2000. Critique of the Power of Judgment, in: Critique of the Power of Judgment, The Cambridge Edition of the Works of Immanuel Kant. Cambridge University Press, Cambridge, pp. 53--54. https://doi.org/10.1017/CBO9780511804656.004Misa, T.J., 1988. How Machines Make History, and how Historians (And Others) Help Them to Do So. Science, Technology, & Human Values 13, 308--331. https://doi.org/10.1177/016224398801303-410Olsen, J.K.B., 2008. New waves in philosophy of technology. Springer.Rose, N., 1991. Governing by numbers: Figuring out democracy. Accounting, organizations and society 16, 673--692.Russi, L., 2013. Hungry capital: The financialization of food. John Hunt Publishing.Schmidhuber, J., 2015. Deep learning in neural networks: An overview. Neural Networks 61, 85--117. https://doi.org/10.1016/j.neunet.2014.09.003Smith, M.R., Marx, L., 1994. Does Technology Drive History?: The Dilemma of Technological Determinism. MIT Press.Sotiropoulos, D., Mēlios, G., Lapatsioras, S., 2013. A political economy of contemporary capitalism and its crisis: demystifying finance. Routledge, London ; New York.Thrift, N.J., Tickell, A., Woolgar, S., Rupp, W.H., 2014. Globalization in Practice. Oxford University Press.Tiqqun, 2001. The Cybernetic Hypothesis.Webster, F., 2014. Theories of the Information Society. Routledge 417.Wiener, N., 1961. Cybernetics Or Control and Communication in the Animal and the Machine. MIT Press.
+Barabási, A.-L., 2003. Linked: The new science of networks.Batchelor, T., 2015. Queen in TERROR threat - Security alert as mobile app lets ANYONE track royal helicopter \[WWW Document\]. Express.co.uk. URL https://www.express.co.uk/news/royal/595420/Queen-terror-threat-security-alert-mobile-app-tracks-royal-helicopter (accessed 7.8.18).Beck, U., 1992. Risk society: towards a new modernity, Theory, culture & society. Sage Publications, London ; Newbury Park, Calif.Cobain, I., 2018. UK has six months to rewrite snooper's charter, high court rules. The Guardian.Cook, I., 2018. Follow the Things - Research at Exeter - University of Exeter \[WWW Document\]. URL https://www.exeter.ac.uk/research/centre/followthethings/ (accessed 7.11.18).Cook, I., 2004. Follow the Thing: Papaya. Antipode 36, 642--664. https://doi.org/10.1111/j.1467-8330.2004.00441.xData Retention Directive - ORG Wiki \[WWW Document\], n.d. URL https://wiki.openrightsgroup.org/wiki/Data\_Retention\_Directive (accessed 7.6.18).Davis, G.F., 2009. Managed by the markets: How finance re-shaped America. Oxford University Press.Definition of ENUMERATE \[WWW Document\], 2018. URL https://www.merriam-webster.com/dictionary/enumerate (accessed 7.18.18).Deutsch, K.W., 1963. The nerves of government; models of political communication and control.Digital Economy Theme strategy - EPSRC website \[WWW Document\], n.d. URL https://epsrc.ukri.org/research/ourportfolio/themes/digitaleconomy/digital-economy-theme-strategy/ (accessed 7.9.18).Dreyfus, H.L., Wrathall, M.A., 2002. Heidegger Reexamined. Volume 3. Art, Poetry, and Technology. Routledge.Flightradar24, n.d. Flightradar24.com - Live flight tracker! \[WWW Document\]. Flightradar24. URL https://www.flightradar24.com/ (accessed 7.8.18).Foucault, M., 2005. The Hermeneutics of the Subject. Palgrave Macmillan US, New York. https://doi.org/10.1007/978-1-137-09483-4Foucault, M., Burchell, G., Gordon, C., Miller, P., 1991. The Foucault effect: Studies in governmentality. University of Chicago Press.Fry, T., 2006. 'Object-Thing Philosophy' and Design: Review of B. Latour and P. Weibel *Making Things Public* ; G. Harman *Tool-Being* and *Guerrilla Metaphysics* ; Peter-Paul Verbeek *What Things Do*. Design Philosophy Papers 4, 21--39. https://doi.org/10.2752/144871306X13966268131316Harman, G., 2011. Tool-being: Heidegger and the metaphysics of objects. Open Court.Hecht-Nielsen, R., 1988. Neurocomputing: picking the human brain. IEEE Spectrum 25, 36--41. https://doi.org/10.1109/6.4520Heidegger, M., 1996. Being and time: A translation of Sein und Zeit. SUNY press.Heidegger, M., 1977. The question concerning technology, and other essays. Garland Pub, New York.Heidegger, M., 1966. Discourse on thinking a translation of Gelassenheit. Harper & Row.Heidegger, M., 1961. An introduction to Metaphysics. Yale University Press.Kapp, E., 1877. Grundlinieneiner Philosophie der Technik. Braunschweig: Druck.Langdon Winner, 1980. Do Artifacts Have Politics? Daedalus 109.MacKenzie, D.A., Wajcman, J. (Eds.), 1999. The social shaping of technology, 2nd ed. ed. Open University Press, Buckingham \[Eng.\] ; Philadelphia.Martin, R., 2002. Financialization of daily life. Temple University Press.Matthews, E., Kant, I., Guyer, P. (Eds.), 2000. Critique of the Power of Judgment, in: Critique of the Power of Judgment, The Cambridge Edition of the Works of Immanuel Kant. Cambridge University Press, Cambridge, pp. 53--54. https://doi.org/10.1017/CBO9780511804656.004Misa, T.J., 1988. How Machines Make History, and how Historians (And Others) Help Them to Do So. Science, Technology, & Human Values 13, 308--331. https://doi.org/10.1177/016224398801303-410Olsen, J.K.B., 2008. New waves in philosophy of technology. Springer.Rose, N., 1991. Governing by numbers: Figuring out democracy. Accounting, organizations and society 16, 673--692.Russi, L., 2013. Hungry capital: The financialization of food. John Hunt Publishing.Schmidhuber, J., 2015. Deep learning in neural networks: An overview. Neural Networks 61, 85--117. https://doi.org/10.1016/j.neunet.2014.09.003Smith, M.R., Marx, L., 1994. Does Technology Drive History?: The Dilemma of Technological Determinism. MIT Press.Sotiropoulos, D., Mēlios, G., Lapatsioras, S., 2013. A political economy of contemporary capitalism and its crisis: demystifying finance. Routledge, London ; New York.Thrift, N.J., Tickell, A., Woolgar, S., Rupp, W.H., 2014. Globalization in Practice. Oxford University Press.Tiqqun, 2001. The Cybernetic Hypothesis.Webster, F., 2014. Theories of the Information Society. Routledge 417.Wiener, N., 1961. Cybernetics Or Control and Communication in the Animal and the Machine. MIT Press.
 
-[^1]: Flightradar24 (Flightradar24, n.d.) shows a real-time flights information. In August 2015 security experts raised a terror attack on a royal helicopter due to the information about the aircraft being accessible via the website (Batchelor, 2015).
+[^1]: ^F^lightradar24 (Flightradar24, n.d.) shows a real-time flights information. In August 2015 security experts raised a terror attack on a royal helicopter due to the information about the aircraft being accessible via the website (Batchelor, 2015).
 
 [^2]: For examples of statistics about colonies see Necochea López (2010), in Britain and India (Cohn, 1996). In Scotland this was instigated largely by Sinclair (Sinclair, 1791). For the anthropological study of colonialism see Pels (1997).
 
@@ -247,17 +392,28 @@ Barabási, A.-L., 2003. Linked: The new science of networks.Batchelor, T., 2015.
 
 [^5]: We separate different communities by their expertise, such as policy-makers, experts, scientific community and then we have general public which sounds like a public with no purpose or expertise which only suffice the role of being a consumer.
 
-  [Table of Contents 1]: #table-of-contents
-  [Table of Figures 2]: #table-of-figures
-  [Chapter one : History of the present or a political analysis of Knowledge 3]: #_Toc518863951
-  [Introduction 3]: #introduction
-  [Abstract 6]: #abstract
-  [1. Enumeration, simplification and universalism 7]: #enumeration-simplification-and-universalism
-  [1.1 Enumeration - The Man Whose Essence was Plotted by a Thousand Numbers 7]: #enumeration---the-man-whose-essence-was-plotted-by-a-thousand-numbers
-  [1.2 The Science of Muddling Through: Or from Locals to Universals 8]: #the-science-of-muddling-through-or-from-locals-to-universals
-  [1.3. What do we loose through enumeration and economical development 9]: #what-do-we-loose-through-enumeration-and-economical-development
-  [2. Governmentality or science of objectification 10]: #governmentality-or-science-of-objectification
-  [3. Discussion on Knowledge and information 12]: #discussion-on-knowledge-and-information
-  [Conclusion 13]: #conclusion
+[^6]: <https://privacy.google.com/intl/en-GB/how-ads-work.html?utm_source=google&utm_medium=ad-settings&utm_campaign=inbound-site-link>
+
+[^7]: <https://privacy.google.com/intl/en-GB/your-data.html>
+
+  [Towards a universal instrument of coordination 1]: #_Toc519691339
+  [Table of Contents 2]: #table-of-contents
+  [Table of Figures 3]: #table-of-figures
+  [Abstract 4]: #abstract
+  [Introduction 4]: #introduction
+  [I. A brief history of the present 4]: #i.-a-brief-history-of-the-present
+  [II. Enumeration, simplification and universalism 9]: #ii.-enumeration-simplification-and-universalism
+  [II.I The Science of Muddling Through: Or from Locals to Universals 10]: #ii.i-the-science-of-muddling-through-or-from-locals-to-universals
+  [II.II. What do we loose through enumeration and economical development 11]: #ii.ii.-what-do-we-loose-through-enumeration-and-economical-development
+  [III. Governmentality or science of objectification 12]: #iii.-governmentality-or-science-of-objectification
+  [IV. Overview on Knowledge and information 14]: #iv.-overview-on-knowledge-and-information
+  [V. OpenBubble 15]: #v.-openbubble
+  [Conclusion 19]: #conclusion
+  [References 21]: #references
   [Figure 1 Analysis of technological determinism (Misa, 1988) 4]: #_Toc518296753
   [1]: media/image1.png {width="6.6930555555555555in" height="3.911111111111111in"}
+  [history.deleteUrl()]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/history/deleteUrl
+  [2]: media/image2.png {width="6.268055555555556in" height="4.288194444444445in"}
+  [3]: media/image3.png {width="6.268055555555556in" height="3.1486111111111112in"}
+  [4]: media/image4.png {width="6.268055555555556in" height="4.028472222222222in"}
+  [5]: media/image5.png {width="6.268055555555556in" height="5.236111111111111in"}

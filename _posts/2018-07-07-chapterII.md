@@ -2,7 +2,7 @@
 
 layout: post
 
-title: Chapter II Anthropological study of gossip - 15000 words
+title: Chapter II Towards a universal instrument of coordination 15000 words
 
 date: 2018-07-07 07:31:00
 

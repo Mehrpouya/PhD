@@ -1,15 +1,16 @@
----
+[]{#_Toc519691339 .anchor}\-\--
+
 layout: post
 
-title: Chapter III Anthropological study of gossip - 15000 words
+title: Chapter II Anthropological study of gossip - 15000 words
 
-date: 2018-07-06 07:31:00
+date: 2018-07-07 07:31:00
 
-last-modified: Thur, 13 Jul 2018
+last-modified: Wed, 18 Jul 2018
 
 categories: chapters
 
----
+\-\--
 
 Towards a universal instrument of coordination
 

@@ -1,4 +1,4 @@
-\-\--
+---
 
 layout: post
 
@@ -10,7 +10,7 @@ last-modified: Wed, 25 Jul 2018
 
 categories: chapters
 
-\-\--
+---
 
 []{#_Toc519865374 .anchor}Towards a universal instrument of coordination
 

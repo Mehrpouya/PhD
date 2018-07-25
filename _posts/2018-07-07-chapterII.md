@@ -6,7 +6,7 @@ title: Chapter II Towards a universal instrument of coordination - 15000 words
 
 date: 2018-07-07 07:31:00
 
-last-modified: Fri, 23 Jul 2018
+last-modified: Wed, 25 Jul 2018
 
 categories: chapters
 
